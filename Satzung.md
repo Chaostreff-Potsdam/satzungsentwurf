@@ -23,10 +23,10 @@ Errichtet am 10. April 2019 in Potsdam
 
 (2) Die Mitgliedschaft endet:
 
-* durch schriftliche Austrittserklärung gegenüber einem Vorstandsmitglied,
-* bei natürlichen Personen durch deren Tod,
-* bei juristischen Personen durch Löschung, Auflösung, Liquidation, Eröffnung des Insolvenzverfahrens, Fusion, Rechtsformänderung, wesensveränderndem Eigentümerwechsel oder sonstiger Beendigung der rechtlichen Existenz oder
-* durch Ausschluss aus dem Verein.
+1. durch schriftliche Austrittserklärung gegenüber einem Vorstandsmitglied,
+1. bei natürlichen Personen durch deren Tod,
+1. bei juristischen Personen durch Löschung, Auflösung, Liquidation, Eröffnung des Insolvenzverfahrens, Fusion, Rechtsformänderung, wesensveränderndem Eigentümerwechsel oder sonstiger Beendigung der rechtlichen Existenz oder
+1. durch Ausschluss aus dem Verein.
 
 (3) Der Vorstand kann Mitglieder wegen vereinsschädigenden Verhaltens sowie wegen Verstoßes gegen Verpflichtungen gemäß § 3 aus dem Verein ausschließen. Der Ausschluss ist an die letzte mitgeteilte Anschrift des betreffenden Mitglieds mitzuteilen und ist zum Zeitpunkt der Absendung wirksam. Dem Ausgeschlossenen steht die Berufung bei der nächsten Mitgliedsversammlung offen; diese entscheidet gegebenenfalls über die rückwirkende Unwirksamkeit des Ausschlusses.
 
@@ -36,10 +36,10 @@ Errichtet am 10. April 2019 in Potsdam
 
 (1) Alle Vereinsmitglieder haben die Pflicht,
 
-* jederzeit die Interessen des Vereins zu wahren,
-* festgesetzte Umlagen und Beiträge unverzüglich bei Fälligkeit zu zahlen,
-* dem Vorstand laufend und unverzüglich ihre aktuelle Anschrift mitzuteilen und
-* auf gesonderte Ladung durch den Vorstand hin an Vorstandssitzungen und Mitgliedsversammlungen teilzunehmen.
+1. jederzeit die Interessen des Vereins zu wahren,
+1. festgesetzte Umlagen und Beiträge unverzüglich bei Fälligkeit zu zahlen,
+1. dem Vorstand laufend und unverzüglich ihre aktuelle Anschrift mitzuteilen und
+1. auf gesonderte Ladung durch den Vorstand hin an Vorstandssitzungen und Mitgliedsversammlungen teilzunehmen.
 
 (2) Alle Vereinsmitglieder haben das Recht, an der Mitgliedsversammlung teilzunehmen und dort abzustimmen. Juristische Personen nehmen durch ihre gesetzlichen Vertreter teil und üben durch diese ihre Mitgliedschaftsrechte aus.
 
