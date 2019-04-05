@@ -53,7 +53,7 @@ Errichtet am 10. April 2019 in Potsdam
 * die Mitgliedsversammlung und
 * der Vorstand.
 
-(2) Die Mitgliederversammlung tritt mindestens einmal pro Kalenderjahr zusammen. Die Mitgliedsversammlung wird vom Vorstand mit einer Ladungsfrist von mindestens 14 Tagen und Angabe einer Tagesordnung schriftlich einberufen. `issue: /* Mitgliedsversammlungen finden stets als Präsenzveranstaltung statt. */`  Jedes Mitglied hat eine Stimme. `issue: /* Stimmrechtsübertragungen sind unzulässig und unwirksam. */` Vertreter juristischer Personen haben ihre Vertretungsberechtigung nachzuweisen. Die Mitgliedsversammlung fasst ihre Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmenthaltungen werden nicht mitgezählt. Jede ordnungsgemäß geladene Mitgliedsversammlung ist beschlussfähig. Versammlungsleiter ist der 1. Vorsitzende, der 2. Vorsitzende als sein Vertreter oder ein von der Mitgliedsversammlung zu Beginn zu wählender Versammlungsleiter. Über die Beschlüsse der Mitgliedsversammlung ist eine Niederschrift anzufertigen, die allen Mitgliedern binnen vier Wochen nach der Versammlung zuzustellen ist.
+(2) Die Mitgliedsversammlung tritt mindestens einmal pro Kalenderjahr zusammen. Die Mitgliedsversammlung wird vom Vorstand mit einer Ladungsfrist von mindestens 14 Tagen und Angabe einer Tagesordnung schriftlich einberufen. `issue: /* Mitgliedsversammlungen finden stets als Präsenzveranstaltung statt. */`  Jedes Mitglied hat eine Stimme. `issue: /* Stimmrechtsübertragungen sind unzulässig und unwirksam. */` Vertreter juristischer Personen haben ihre Vertretungsberechtigung nachzuweisen. Die Mitgliedsversammlung fasst ihre Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmenthaltungen werden nicht mitgezählt. Jede ordnungsgemäß geladene Mitgliedsversammlung ist beschlussfähig. Versammlungsleiter ist der 1. Vorsitzende, der 2. Vorsitzende als sein Vertreter oder ein von der Mitgliedsversammlung zu Beginn zu wählender Versammlungsleiter. Über die Beschlüsse der Mitgliedsversammlung ist eine Niederschrift anzufertigen, die allen Mitgliedern binnen vier Wochen nach der Versammlung zuzustellen ist.
 
 (3) Der Vorstand besteht aus
 
@@ -71,7 +71,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (6) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber einem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein 1. oder 2. Vorsitzender gegenüber dem Vorstand seinen Rücktritt `issue: /* oder scheidet aus, oder ist nicht mehr in der Lage, etc */`, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
 
-`issue: /* (7) Ist abwählen durch Mitgliederversammlung, indem ... */`
+`issue: /* (7) Ist abwählen durch Mitgliedsversammlung, indem ... */`
 
 ## § 5 Finanzen
 
