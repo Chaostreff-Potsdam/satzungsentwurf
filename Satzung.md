@@ -65,7 +65,7 @@ dem Schatzmeister.
 
 Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne des § 26 BGB. Sie vertreten den Verein `issue: /* jeweils allein */` gerichtlich und außergerichtlich.
 
-(4) Darüber hinaus kann die Mitgliedsversammlung einen Schatzmeister sowie bis zu drei Beisitzer als stimmberechtigte Vorstandsmitglieder wählen. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, Stimmenthaltungen werden nicht mitgezählt. Der Vorstand regelt seine Geschäftsverteilung durch gesonderten Vorstandsbeschluss und darf einzelnen Vereinsmitgliedern Vollmachten zur Vertretung des Vereins in bestimmten Angelegenheiten erteilen. Vorstandssitzungen werden vom 1. oder 2. Vorsitzenden mit einer Ladungfrist von drei Tagen schriftlich einberufen.
+(4) Darüber hinaus kann die Mitgliedsversammlung bis zu drei Beisitzer als stimmberechtigte Vorstandsmitglieder wählen. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, Stimmenthaltungen werden nicht mitgezählt. Der Vorstand regelt seine Geschäftsverteilung durch gesonderten Vorstandsbeschluss und darf einzelnen Vereinsmitgliedern Vollmachten zur Vertretung des Vereins in bestimmten Angelegenheiten erteilen. Vorstandssitzungen werden vom 1. oder 2. Vorsitzenden mit einer Ladungfrist von drei Tagen schriftlich einberufen.
 
 (5) Der Vorstand kann einzelne Vereinsmitglieder `issue: /* oder Person */` als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand. Der Einberufende kann bestimmen, dass die Sitzung in fernmündlicher oder mittels sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
 
