@@ -11,7 +11,9 @@
  
  (4) Der Mitgliedsbeitrag für Personen unter 16 Jahren beträgt **2,56 Euro**.
  
- (5) Erhöhter Beitrag: Es ist den Migliedern freigestellt, den Beitrag über den in (1) und (2) genannten monatlichen Beitrag zu erhöhen. Mehreinzahlungen werden als erhöhter Beitrag aufgefasst. 
+ (5) Erhöhter Beitrag: Es ist den Migliedern freigestellt, den Beitrag über den in (1) und (2) genannten monatlichen Beitrag zu erhöhen. Mehreinzahlungen werden als erhöhter Beitrag aufgefasst.
+
+ (6) Der Vorstand kann in begründeten Einzelfällen über einen abweichenden Mitgliedsbeitrag entscheiden.
 
  ## § 2 Fälligkeit
   Der Mitgliedsbeitrag wird jeweils zum 1. des Monats bzw. mit der Annahme des Aufnahmeantrags fällig.
