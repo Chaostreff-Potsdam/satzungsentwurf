@@ -34,17 +34,16 @@ Errichtet am 10. April 2019 in Potsdam
 
 ## § 3 Rechte und Pflichten der Mitglieder
 
-(1) Alle Vereinsmitglieder haben die Pflicht
+(1) Alle Vereinsmitglieder haben die Pflicht,
 
 * jederzeit die Interessen des Vereins zu wahren,
 * festgesetzte Umlagen und Beiträge unverzüglich bei Fälligkeit zu zahlen,
 * dem Vorstand laufend und unverzüglich ihre aktuelle Anschrift mitzuteilen und
 * auf gesonderte Ladung durch den Vorstand hin an Vorstandssitzungen und Mitgliedsversammlungen teilzunehmen.
 
-(2) Alle Vereinsmitglieder haben das Recht
+(2) Alle Vereinsmitglieder haben das Recht, an der Mitgliedsversammlung teilzunehmen und dort abzustimmen. Juristische Personen nehmen durch ihre gesetzlichen Vertreter teil und üben durch diese ihre Mitgliedschaftsrechte aus.
 
-* an der Mitgliedsversammlung teilzunehmen und dort abzustimmen. Juristische Personen nehmen durch ihre gesetzlichen Vertreter teil und üben durch diese ihre Mitgliedschaftsrechte aus.
-* vom Vorstand `issue: quorum?` unter Nennung gewünschter Tagesordnungspunkte und gegebenenfalls abzustimmender Beschlussvorlagen die Einberufung einer Mitgliedsversammlung zu verlangen, die binnen vier Wochen nach Eingang beim Vorstand stattzufinden hat.
+(3) Alle Vereinsmitglieder haben das Recht, vom Vorstand `issue: quorum?` unter Nennung gewünschter Tagesordnungspunkte und gegebenenfalls abzustimmender Beschlussvorlagen die Einberufung einer Mitgliedsversammlung zu verlangen, die binnen vier Wochen nach Eingang beim Vorstand stattzufinden hat.
 
 
 ## § 4 Organe
