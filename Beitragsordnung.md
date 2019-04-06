@@ -2,21 +2,21 @@
 
 
 ## §1 Höhe der Beiträge (gestaffelt)
- 
+
 (1) Der Mitgliedsbeitrag beträgt **23,42 Euro** pro Monat.
- 
+
 (2) Der Mitgliedsbeitrag für Studierende beträgt **13,37 Euro** pro Monat. Er verlangt die Vorlage einer Studienbescheinigung.
- 
-(3) Der ermäßigte Mitgliedsbeitrag beträgt **9 Euro** pro Monat. Die Ermäßigung gilt für Schüler, Auszubildende und Arbeitslose. Er verlangt die Vorlage eines schriftlichen Nachweises. Der ermäßigte Beitrag ist in weiteren Fällen nur durch begründete Anfrage zu erwerben. Der Vorstand entscheidet über die Annahme dieser Begründung.
- 
+
+(3) Der ermäßigte Mitgliedsbeitrag beträgt **9 Euro** pro Monat. Die Ermäßigung gilt für Schüler, Auszubildende, Arbeitslose, Rentner, Erwerbsgeminderte und Schwerbehinderte. Er verlangt die Vorlage eines schriftlichen Nachweises. Der ermäßigte Beitrag ist in weiteren Fällen nur durch begründete Anfrage zu erwerben. Der Vorstand entscheidet über die Annahme dieser Begründung.
+
 (4) Der Mitgliedsbeitrag für Personen unter 16 Jahren beträgt **2,56 Euro**.
- 
+
 (5) Erhöhter Beitrag: Es ist den Mitgliedern freigestellt, den Beitrag über den in (1) und (2) genannten monatlichen Beitrag zu erhöhen. Mehreinzahlungen werden als erhöhter Beitrag aufgefasst.
 
 ## § 2 Fälligkeit
- 
+
 Der Mitgliedsbeitrag wird jeweils zum 1. des Monats bzw. mit der Annahme des Aufnahmeantrags fällig.
- 
+
 ## § 3 Zahlungsweise
 
 (1) Die Zahlung des Beitrages erfolgt monatlich per Überweisung auf das Konto des CCCP e.V. Es wird empfohlen, einen Dauerauftrag einzurichten.
@@ -28,7 +28,7 @@ Der Mitgliedsbeitrag wird jeweils zum 1. des Monats bzw. mit der Annahme des Auf
 Im Säumnisfall wird das Mitglied nach dreimonatigem Ausbleiben des Beitrags gemahnt. Zahlt ein Mitglied trotz zweifacher Mahnung (in Textform) oder länger als drei Monate den Beitrag nicht, so gilt nach Ablauf eines Monates nach der zweiten Mahnung die Nichtzahlung als Austritt. In der zweiten Mahnung ist auf die Folgen der Nichtzahlung hinzuweisen.
 
 ## § 5 Aufnahmegebühren
- 
+
 Aufnahmegebühren werden nicht erhoben.
 
 ## § 6 Erstattungen
