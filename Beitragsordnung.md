@@ -23,7 +23,7 @@ Der Mitgliedsbeitrag wird jeweils zum 1. des Monats bzw. mit der Annahme des Auf
 
 (2) Alternativ zu Abs. (1) kann nach Absprache eine Barzahlung an den Schatzmeister erfolgen.
 
-## $ 4 Säumnis
+## § 4 Säumnis
 
 Im Säumnisfall wird das Mitglied nach dreimonatigem Ausbleiben des Beitrags gemahnt. Zahlt ein Mitglied trotz zweifacher Mahnung (in Textform) oder länger als drei Monate den Beitrag nicht, so gilt nach Ablauf eines Monates nach der zweiten Mahnung die Nichtzahlung als Austritt. In der zweiten Mahnung ist auf die Folgen der Nichtzahlung hinzuweisen.
 
