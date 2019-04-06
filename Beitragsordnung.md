@@ -1,7 +1,7 @@
 # Beitragsordnung 
 
 
-## §1  Höhe der Beiträge (gestaffelt)
+## §1 Höhe der Beiträge (gestaffelt)
  
 (1) Der Mitgliedsbeitrag beträgt **23,42 Euro** pro Monat.
  
@@ -27,11 +27,11 @@ Der Mitgliedsbeitrag wird jeweils zum 1. des Monats bzw. mit der Annahme des Auf
 
 Im Säumnisfall wird das Mitglied nach dreimonatigem Ausbleiben des Beitrags gemahnt. Zahlt ein Mitglied trotz zweifacher Mahnung (in Textform) oder länger als drei Monate den Beitrag nicht, so gilt nach Ablauf eines Monates nach der zweiten Mahnung die Nichtzahlung als Austritt. In der zweiten Mahnung ist auf die Folgen der Nichtzahlung hinzuweisen.
 
-## § 5  Aufnahmegebühren
+## § 5 Aufnahmegebühren
  
 Aufnahmegebühren werden nicht erhoben.
 
-## § 6  Erstattungen
+## § 6 Erstattungen
 
 Eine Erstattung von Mitgliedsbeiträgen findet nicht statt.
 
