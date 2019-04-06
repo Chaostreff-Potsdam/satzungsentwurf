@@ -61,7 +61,7 @@ Errichtet am 10. April 2019 in Potsdam
 * dem 2. Vorsitzenden und
 * dem Schatzmeister.
 
-Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne des § 26 BGB. Sie vertreten den Verein `issue: /* jeweils allein */` gerichtlich und außergerichtlich.
+Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne des § 26 BGB. Sie vertreten den Verein jeweils allein gerichtlich und außergerichtlich.
 
 (4) Darüber hinaus kann die Mitgliedsversammlung bis zu drei Beisitzer als stimmberechtigte Vorstandsmitglieder wählen. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, Stimmenthaltungen werden nicht mitgezählt. Der Vorstand regelt seine Geschäftsverteilung durch gesonderten Vorstandsbeschluss und darf einzelnen Vereinsmitgliedern Vollmachten zur Vertretung des Vereins in bestimmten Angelegenheiten erteilen. Vorstandssitzungen werden vom 1. oder 2. Vorsitzenden mit einer Ladungfrist von drei Tagen schriftlich einberufen.
 
