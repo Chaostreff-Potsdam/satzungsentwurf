@@ -7,7 +7,7 @@
  
 (2) Der Mitgliedsbeitrag für Studierende beträgt **13,37 Euro** pro Monat. Er verlangt die Vorlage einer Studienbescheinigung.
  
-(3) Der ermäßigte Mitgliedsbeitrag beträgt **9 Euro** pro Monat. Die Ermäßigung gilt für Schüler, Auszubildende und Arbeitslose. Er verlangt die Vorlage eines schriftlichen Nachweises. Der ermäßigte Beitrag ist in weiteren Fällen nur durch begründete Anfrage zu erwerben. Der Vorstand entscheidet über die Annahme dieser Begründung.
+(3) Der ermäßigte Mitgliedsbeitrag beträgt **9 Euro** pro Monat. Die Ermäßigung gilt für Schüler, Auszubildende, Arbeitslose, Rentner, Erwerbsgeminderte und/oder Schwerbehinderte. Er verlangt die Vorlage eines schriftlichen Nachweises. Der ermäßigte Beitrag ist in weiteren Fällen nur durch begründete Anfrage zu erwerben. Der Vorstand entscheidet über die Annahme dieser Begründung.
  
 (4) Der Mitgliedsbeitrag für Personen unter 16 Jahren beträgt **2,56 Euro**.
  
