@@ -1,7 +1,7 @@
 # Satzung
 
 Satzung des Vereins
-Chaos Computer Club Potsdam e. V. (CCCP)
+*Chaos Computer Club Potsdam* e. V. (CCCP)
 
 Errichtet am 10. April 2019 in Potsdam
 
@@ -9,9 +9,9 @@ Errichtet am 10. April 2019 in Potsdam
 
 ## § 1 Name, Sitz und Zweck
 
-(1) Der Verein trägt den Namen Chaos Computer Club Potsdam e. V. (CCCP). Er soll in das Vereinsregister eingetragen werden. Sitz des Vereins ist Potsdam. Der Verein wird in Abstimmung mit dem Chaos Computer Club e. V., Sitz Hamburg, als selbständiger Verein dessen lokale Repräsentanz bilden.
+(1) Der Verein trägt den Namen *Chaos Computer Club Potsdam* e. V. (CCCP). Er soll in das Vereinsregister eingetragen werden. Sitz des Vereins ist Potsdam. Der Verein wird in Abstimmung mit dem Chaos Computer Club e. V., Sitz Hamburg, als selbständiger Verein dessen lokale Repräsentanz bilden.
 
-(2) Zweck des Vereines ist die Vernetzung von IT-Fachleuten und verwandter Fachpersonen mit dem Ziel des Betriebs eines Vereinsheims für Datenreisende.
+(2) Zweck des Vereins ist die Vernetzung von IT-Fachleuten und verwandter Fachpersonen mit dem Ziel des Betriebs eines Vereinsheims für Datenreisende.
 
 (3) Der Verein veranstaltet hierzu Tagungen, organisiert Erfahrungsaustausch, macht Beratungsangebote, sammelt Schenkungen, vergibt Preise, Zuschüsse und Stipendien und ergreift darüber hinaus alle zur Verfolgung des Vereinszwecks für sinnvoll erachteten Maßnahmen.
 
@@ -57,7 +57,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 (3) Der Vorstand besteht aus
 
-* dem 1. Vorsitzenden und
+* dem 1. Vorsitzenden,
 * dem 2. Vorsitzenden und
 * dem Schatzmeister.
 
@@ -75,7 +75,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen. `issue: /? Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken.?/` Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
 
-(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. `issue: /* Ein Vereinsmitglied wird vom Vorstand als Schatzmeister mit der Verwaltung der Vereinsfinanzen beauftragt und gesondert bevollmächtigt; dieses berichtet direkt an den Vorstand. */` Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstandes abzustimmen hat.
+(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. `issue: /* Ein Vereinsmitglied wird vom Vorstand als Schatzmeister mit der Verwaltung der Vereinsfinanzen beauftragt und gesondert bevollmächtigt; dieses berichtet direkt an den Vorstand. */` Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
 
 
 ## § 6 Satzungsänderungen
