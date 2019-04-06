@@ -31,3 +31,22 @@ Die Daten, die Sie für die Anmeldung an einer oder mehrerer Mailinglisten angeg
 
 Name, Anschrift, E-Mail, PGP-ID, Eintrittsdatum, „Bezahlt bis“-Datum, „zuletzt gezahlt“-Datum, ermäßigt-/Vollzahler-Status, ggf. Kommentar.
 Diese Daten werden Ihnen auf anfrage per E-Mail von uns als sogenannter Datenbrief zugesendet.
+
+## Erhebungsgrund
+
+Grund für die Erhebung der Daten ist die Mitgliederverwaltung.
+
+## Austreten aus dem Verein
+
+Bei Austritt aus dem Verein werden Ihre Daten gelöscht, solange nicht
+gesetzliche Regelungen dem entgegenstehen.
+
+## Einwilligung
+
+Hiermit stimme ich der Verarbeitung meiner Daten durch den Chaos Computer Club Potsdam e. V. unter oben gennanten Bedingungen zu.
+
+<br/>
+<br/>
+    
+    ____________                 ____________________
+    [Ort, Datum]                 [Name, Unterschrift]
