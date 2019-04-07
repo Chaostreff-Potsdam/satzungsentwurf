@@ -21,19 +21,23 @@ Auch diesem Vorschlag stimmten allen Anwesenden mündlich zu.
 
 Der Versammlungsleiter schlug folgende Tagesordnung (TOP) vor:
 
-**Tagesordnung**
+---
+
+## Tagesordnung
 
 1. Aussprache zur Gründung eines Vereins
 2. Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung
 3. Wahl des Vereinsvorstandes, sowie des Schatzmeisters
 4. Anmeldung des Vereins und weiteres Vorgehen
-5. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
-6. Festlegung der Mitgliedsbeiträge
+5. Festlegung der Mitgliedsbeiträge
+6. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
 7. Sonstiges
 
 Abstimmung zur Tagesordnung.
 **(+,-,o)**
 /*Die Anwesenden stimmten der Tagesordnung einstimmig zu.*/
+
+---
 
 ## 1. Aussprache zur Gründung eines Vereins
 
@@ -110,19 +114,21 @@ Weiterhin wurde vorgeschlagen, dass der 1. Vorsitzende beauftragt und bevollmäc
 
 /*Auch diesem Antrag folgte die Versammlung einstimmig.*/
 
-## 5. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
+## 5. Festlegung der Mitgliedsbeiträge
+
+Der Versammlungsleiter verlas den Entwurf der Beitragsordnung (Anlage [3]) und schlug vor, über den Entwurf abzustimmen.
+
+**(+,-,o)**
+
+Damit wurde die Beitragsordnung wie in Anlage [3] beschrieben von der Versammlung angenommen.
+
+## 6. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
 
 Es wurde darüber abgestimmt, dass alle neuen Mitglieder, ihren vorgesehenen Mitgliedsbeitrag (zur Deckung der Ingangsetzungskosten), unverzüglich nach Mitteilung ihrer Aufnahme in den Verein, mangels eines Vereinskontos, dem Schatzmeister in Bar aushändigen sollen. Dieser gilt als regulärer Beitrag im ersten Mitgliedsmonat und stellt alleinig schnelle Liquidität zur Gründung sicher.
-Weitere Beitragsfragen soll die vom Vorstand zu erlassende Beitragsordnung regeln.
 
 **(+,-,o)**
 
 /*Diesem Antrag folgte die Versammlung einstimmig per Handzeichen.*/
-
-## 6. Festlegung der Mitgliedsbeiträge
-
-
-
 
 ## 7. Sonstiges
 
