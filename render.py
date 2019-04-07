@@ -20,7 +20,7 @@ env = Environment(undefined=SilentUndefined)
 
 fileName = sys.argv[1]
 with open(fileName,"r") as input_file:
-    with open("parameters.json") as json_file:
+    with open("vars.json") as json_file:
         template = env.from_string(input_file.read())
         template.globals['now'] = datetime.datetime.now
         parameters = json.load(json_file)
