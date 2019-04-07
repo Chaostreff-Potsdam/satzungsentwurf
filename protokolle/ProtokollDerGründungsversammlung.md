@@ -28,8 +28,8 @@ Der Versammlungsleiter schlug folgende Tagesordnung (TOP) vor:
 3. Wahl des Vereinsvorstandes, sowie des Schatzmeisters
 4. Anmeldung des Vereins und weiteres Vorgehen
 5. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
-? Festlegung der Mitgliedsbeiträge ??
-6. Sonstiges
+6. Festlegung der Mitgliedsbeiträge
+7. Sonstiges
 
 Abstimmung zur Tagesordnung.
 **(+,-,o)**
@@ -37,7 +37,13 @@ Abstimmung zur Tagesordnung.
 
 ## 1. Aussprache zur Gründung eines Vereins
 
-//TODO: add content
+Herr Schütze erläuterte:
+
+Die Idee und Geschichte des Projektes „CCCP“ sowie den Werdegang bis zum heutigen Tage als daraus ein „Verein“ wurde.
+Des weiteren wurde die Arbeitsweise des künftigen „eingetragenen Vereins“ erläutert und wie diese umgesetzt wird.
+Danach erfolgte eine Schilderung der langfristigen Ziele sowie der Werte für die der „CCCP“ steht.
+
+Die Anwesenden begrüßten diese Vorschläge und sprachen sich somit einstimmig für die Gründung des „Vereins“ aus.
 
 ## 2. Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung
 
@@ -113,7 +119,12 @@ Weitere Beitragsfragen soll die vom Vorstand zu erlassende Beitragsordnung regel
 
 /*Diesem Antrag folgte die Versammlung einstimmig per Handzeichen.*/
 
-## 6. Sonstiges
+## 6. Festlegung der Mitgliedsbeiträge
+
+
+
+
+## 7. Sonstiges
 
 Der 1. Vorsitzende übernahm die Versammlungsleitung, dankte den Mitgliedern für ihre Mitwirkung und fragte, ob es weitere Anträge oder Fragen gibt. Nachdem dies nicht der Fall war, schloss er die Versammlung um {} Uhr.
 
@@ -124,3 +135,5 @@ Der 1. Vorsitzende übernahm die Versammlungsleitung, dankte den Mitgliedern fü
 [1] Anlage Anwesenheitsliste
 
 [2] Anlage unterschriebene Satzung
+
+[3] Anlage Beitragsordnung
