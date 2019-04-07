@@ -91,7 +91,6 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 Die Auflösung des Vereins geschieht durch Beschluss der Mitgliedsversammlung mit Dreiviertelmehrheit. Die Mitgliedsversammlung hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachnungen erfolgen im elektronischen Bundesanzeiger. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung mit einfacher Mehrheit zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
 
 
-
 ## § 8 Kommunikation
 
 Schriftliche Erklärungen im Sinne dieser Satzung sind handschriftlich unterschriebene Dokumente in Papierform sowie mit geeigneten Mitteln signierte elektronische Dokumente (E-Mail).

@@ -6,3 +6,4 @@ Anmerkungen bitte bis Montag, 08.04.2019, 23:59:59 CEST einreichen. Der AK Verei
 
 Bitte Unix-Lineendings und normalisiertes UTF-8 (NFC) verwenden!
 
+Makefile benötigt installiertes [md2pdf](https://pypi.org/project/md2pdf/).
