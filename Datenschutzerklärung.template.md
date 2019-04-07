@@ -7,7 +7,7 @@ wir sind gemäß DSGVO dazu verpflichtet, sie über die Verarbeitung Ihrer Daten
 
 ## 1. Kontakt & Verantwortlicher
 
-    {{vereinsName}}
+    {{verein.name}}
     c/o {{ vorsitzende|join(", ", attribute="name") }}
     {{verein.adresse.straße}}
     {{verein.adresse.plz}} {{verein.adresse.stadt}}
@@ -89,8 +89,14 @@ Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung d
 Sämtliche Daten, die durch Anbieten von Servern, Kontaktmöglichkeiten, Verwaltungssystemen und der Websiten des Vereins anfallen, werden auf Serversystemen von {{serverhoster.name}} gespeichert. Verantwortlicher des Unternehmens ist:
 
     {{serverhoster.verantwortlich}}
+    {{serverhoster.name}}
     {{serverhoster.straße}}
-    {{serverhoster.plz}} {{serverhoster.ort}}
+    {{serverhoster.plz}} {{serverhoster.stadt}}
+    {{serverhoster.land}}
+
+    Telefon: {{serverhoster.tel}}
+    Telefax: {{serverhoster.fax}}
+    Website: {{serverhoster.url}}
 
 Entsprechende Verträge zur Auftragsverarbeitung liegen vor.
 Es findet keine Datenübermittlung in Drittländer außerhalb des EWR-Raumes statt.
