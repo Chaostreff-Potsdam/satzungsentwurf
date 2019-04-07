@@ -30,7 +30,7 @@ Die Daten, die Sie für die Anmeldung an einer oder mehrerer Mailinglisten angeg
 ## Erfasste Daten von Mitgliedern
 
 Name, Anschrift, E-Mail, PGP-ID, Eintrittsdatum, „Bezahlt bis“-Datum, „zuletzt gezahlt“-Datum, ermäßigt-/Vollzahler-Status, ggf. Kommentar.
-Diese Daten werden Ihnen auf anfrage per E-Mail von uns als sogenannter Datenbrief zugesendet.
+Diese Daten werden Ihnen auf Anfrage per E-Mail von uns als sogenannter Datenbrief zugesendet.
 
 ## Erhebungsgrund
 

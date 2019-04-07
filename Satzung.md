@@ -13,7 +13,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 (2) Zweck des Vereins ist die Vernetzung von IT-Fachleuten und verwandter Fachpersonen mit dem Ziel des Betriebs eines Vereinsheims für Datenreisende.
 
-(3) Der Verein veranstaltet hierzu Tagungen, organisiert Erfahrungsaustausch, macht Beratungsangebote, sammelt Spenden, vergibt Preise, Zuschüsse und Stipendien und ergreift darüber hinaus alle zur Verfolgung des Vereinszwecks für sinnvoll erachteten Maßnahmen.
+(3) Der Verein veranstaltet hierzu Tagungen, organisiert Erfahrungsaustausch, macht Beratungsangebote, sammelt Schenkungen, vergibt Preise, Zuschüsse und Stipendien und ergreift darüber hinaus alle zur Verfolgung des Vereinszwecks für sinnvoll erachteten Maßnahmen.
 
 
 
@@ -85,11 +85,11 @@ Organe des Vereins sind
 * dem 2. Vorsitzenden und
 * dem Schatzmeister.
 
-Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne des § 26 BGB. Sie vertreten den Verein `issue: /* jeweils allein */` gerichtlich und außergerichtlich.
+Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne des § 26 BGB. Sie vertreten den Verein jeweils allein gerichtlich und außergerichtlich.
 
 (2) Darüber hinaus kann die Mitgliedsversammlung bis zu drei Beisitzer als stimmberechtigte Vorstandsmitglieder wählen. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, Stimmenthaltungen werden nicht mitgezählt. Der Vorstand regelt seine Geschäftsverteilung durch gesonderten Vorstandsbeschluss und darf einzelnen Vereinsmitgliedern Vollmachten zur Vertretung des Vereins in bestimmten Angelegenheiten erteilen. Vorstandssitzungen werden vom 1. oder 2. Vorsitzenden mit einer Ladungfrist von drei Tagen schriftlich einberufen.
 
-(3) Der Vorstand kann einzelne Vereinsmitglieder `issue: /* oder Person */` als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand. Der Einberufende kann bestimmen, dass die Sitzung in fernmündlicher oder mittels sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
+(5) Der Vorstand kann einzelne Personen als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand. Der Einberufende kann bestimmen, dass die Sitzung in fernmündlicher oder mittels sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
 
 (4) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber einem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein 1. oder 2. Vorsitzender gegenüber dem Vorstand seinen Rücktritt `issue: /* oder scheidet aus, oder ist nicht mehr in der Lage, etc */`, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
 
@@ -99,14 +99,14 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 ## § 7 Finanzen
 
-(1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Spenden, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen. `issue: /? Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken.?/` Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
+(1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen. Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken. Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
 
-(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von `issue: /* Schenkung/Spenden */` entscheidet der Vorstand. `issue: /* Ein Vereinsmitglied wird vom Vorstand als Schatzmeister mit der Verwaltung der Vereinsfinanzen beauftragt und gesondert bevollmächtigt; dieses berichtet direkt an den Vorstand. */` Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
+(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. `issue: /* Ein Vereinsmitglied wird vom Vorstand als Schatzmeister mit der Verwaltung der Vereinsfinanzen beauftragt und gesondert bevollmächtigt; dieses berichtet direkt an den Vorstand. */` Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
 
 
 ## § 8 Satzungsänderungen
 
-(1) Über Änderungen und Ergänzungen dieser Satzung entscheidet die Mitgliedsversammlung `issue: mit 3/4`. Sollten einzelne Bestimmungen dieser Satzung unwirksam sein oder werden, so gelten sie als durch solche wirksame Satzungsbestimmungen ersetzt, die dem Zweck der jeweiligen Bestimmung am nächsten kommen.
+(1) Über Änderungen und Ergänzungen dieser Satzung entscheidet die Mitgliedsversammlung mit Dreiviertelmehrheit. Sollten einzelne Bestimmungen dieser Satzung unwirksam sein oder werden, so gelten sie als durch solche wirksame Satzungsbestimmungen ersetzt, die dem Zweck der jeweiligen Bestimmung am nächsten kommen.
 
 (2) Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen der nächsten Mitgliedsversammlung mitgeteilt werden.
 
@@ -114,8 +114,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 ## § 9 Auflösung
 
-Die Auflösung des Vereins geschieht durch `issue: 3/4`-Beschluss der Mitgliedsversammlung. Diese hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachnungen erfolgen im elektronischen Bundesanzeiger. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung (quorum?) zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
-
+Die Auflösung des Vereins geschieht durch Beschluss der Mitgliedsversammlung mit Dreiviertelmehrheit. Die Mitgliedsversammlung hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachnungen erfolgen im elektronischen Bundesanzeiger. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung mit einfacher Mehrheit zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
 
 
 ## § 10 Kommunikation
