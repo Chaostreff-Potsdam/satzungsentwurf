@@ -122,16 +122,10 @@ Weitere Beitragsfragen soll die vom Vorstand zu erlassende Beitragsordnung regel
 
 Der 1. Vorsitzende übernahm die Versammlungsleitung, dankte den Mitgliedern für ihre Mitwirkung und fragte, ob es weitere Anträge oder Fragen gibt. Nachdem dies nicht der Fall war, schloss er die Versammlung um {} Uhr.
 
+    -------------------------------   ------------------------------------
+    Unterschrift des Schriftführers   Unterschrift des Versammlungsleiters
+    Felix Grzelka                     Stephan Schütze
 
-
-
-
-
-````
--------------------------------             ------------------------------------
-Unterschrift des Schriftführers             Unterschrift des Versammlungsleiters
-Felix Grzelka                               Stephan Schütze
-````
 [1] Anlage Anwesenheitsliste
 
 [2] Anlage unterschriebene Satzung
