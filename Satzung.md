@@ -7,7 +7,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 
 
-## § 1 Name, Sitz und Zweck
+## § 1 Name, Sitz, Zweck und Geschäftsjahr
 
 (1) Der Verein trägt den Namen *Chaos Computer Club Potsdam* e. V. (CCCP). Er soll in das Vereinsregister eingetragen werden. Sitz des Vereins ist Potsdam. Der Verein wird in Abstimmung mit dem Chaos Computer Club e. V., Sitz Hamburg, als selbständiger Verein dessen lokale Repräsentanz bilden.
 
@@ -15,6 +15,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 (3) Der Verein veranstaltet hierzu Tagungen, organisiert Erfahrungsaustausch, macht Beratungsangebote, sammelt Schenkungen, vergibt Preise, Zuschüsse und Stipendien und ergreift darüber hinaus alle zur Verfolgung des Vereinszwecks für sinnvoll erachteten Maßnahmen.
 
+(4) Das Geschäftsjahr entspricht dem Kalenderjahr.
 
 
 ## § 2 Mitgliedschaft
@@ -91,9 +92,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (3) Der Vorstand kann einzelne Personen als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand. Die Einberufenen können bestimmen, dass die Sitzung in fernmündlicher oder mittels sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
 
-(4) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber einem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein 1. oder 2. Vorsitzender gegenüber dem Vorstand seinen Rücktritt `issue: /* oder scheidet aus, oder ist nicht mehr in der Lage, etc */`, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
-
-`issue: /* (5) Ist abwählen durch Mitgliedsversammlung, indem ... */`
+(4) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber einem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein Vorstandsmitglied gegenüber dem Vorstand seinen Rücktritt, scheidet es aus dem Verein aus, oder ist langfristig an der Ausübung seines Amtes gehindert, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
 
 
 
@@ -101,7 +100,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen. Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken. Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
 
-(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. `issue: /* Ein Vereinsmitglied wird vom Vorstand als Schatzmeister mit der Verwaltung der Vereinsfinanzen beauftragt und gesondert bevollmächtigt; dieses berichtet direkt an den Vorstand. */` Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
+(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
 
 
 ## § 8 Satzungsänderungen
