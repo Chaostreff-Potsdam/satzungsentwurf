@@ -111,8 +111,8 @@ Dem stimmten alle Anwesenden per Handzeichen zu.
 
 ## 4. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
 
-Es wurde darüber abgestimmt, dass alle neuen Mitglieder, einen einmaligen Beitrag von 20,00 € (zur Deckung der Ingangsetzungskosten), unverzüglich nach Mitteilung ihrer Aufnahme in den Verein, auf das neu zu errichtende Bankkonto des Vereins, einzahlen müssen.
-Weitere Beitragsfragen soll eine vom Vorstand zu erlassende Beitragsordnung regeln.
+Es wurde darüber abgestimmt, dass alle neuen Mitglieder, ihren vorgesehenen Mitgliedsbeitrag (zur Deckung der Ingangsetzungskosten), unverzüglich nach Mitteilung ihrer Aufnahme in den Verein, mangels eines Vereinskontos, dem Schatzmeister in Bar aushändigen sollen. Dieser gilt als regulärer Beitrag im ersten Mitgliedsmonat und stellt alleinig schnelle Liquidität zur Gründung sicher.
+Weitere Beitragsfragen soll die vom Vorstand zu erlassende Beitragsordnung regeln.
 
 **(+,-,o)**
 
