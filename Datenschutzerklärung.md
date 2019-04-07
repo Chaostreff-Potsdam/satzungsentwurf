@@ -7,12 +7,13 @@ wir sind gemäß DSGVO dazu verpflichtet, sie über die Verarbeitung Ihrer Daten
 
 ## 1. Kontakt & Verantwortlicher
 
+    Chaos Computer Club Potsdam e. V.
     c/o Christoph Philipp Sterz, Sven Köhler
     Friedrich-Engels-Straße 22
     14473 Potsdam
     Germany
     Mail: datenschutz@ccc-p.org
-    Tel: {{{{datenschutz.tel}}}}
+    Tel: 
 
 ---
 
@@ -83,13 +84,19 @@ Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung d
 
 ## VI. Auftragsverarbeiter
 
-### 1. {{serverhoster.name}}: Serverhosting
+### 1. netcup GmbH: Serverhosting
 
-Sämtliche Daten, die durch Anbieten von Servern, Kontaktmöglichkeiten, Verwaltungssystemen und der Websiten des Vereins anfallen, werden auf Serversystemen von {{serverhoster.name}} gespeichert. Verantwortlicher des Unternehmens ist:
+Sämtliche Daten, die durch Anbieten von Servern, Kontaktmöglichkeiten, Verwaltungssystemen und der Websiten des Vereins anfallen, werden auf Serversystemen von netcup GmbH gespeichert. Verantwortlicher des Unternehmens ist:
 
-    {{serverhoster.verantwortlich}}
-    {{serverhoster.straße}}
-    {{serverhoster.plz}} {{serverhoster.ort}}
+    Felix Preuß
+    netcup GmbH
+    Daimlerstraße 25
+    76185 Karlsruhe
+    Germany
+
+    Telefon: +49 721 / 7540755 - 0
+    Telefax: +49 721 / 7540755 - 9
+    Website: https://www.netcup.de/kontakt/impressum.php
 
 Entsprechende Verträge zur Auftragsverarbeitung liegen vor.
 Es findet keine Datenübermittlung in Drittländer außerhalb des EWR-Raumes statt.
@@ -149,6 +156,6 @@ Ich erteile meine Einwilligung zur Verarbeitung meiner personenbezogenen Daten.
 
 <br/>
 <br/>
-
+    
     ____________                 ____________________
     [Ort, Datum]                 [Name, Unterschrift]
