@@ -1,4 +1,4 @@
-PDF = Satzung.pdf Beitragsordnung.pdf VorteileMitgliedschaft.pdf protokolle/ProtokollDerGründungsversammlung.pdf
+PDF = Satzung.pdf Beitragsordnung.pdf Datenschutzerklärung.pdf VorteileMitgliedschaft.pdf protokolle/ProtokollDerGründungsversammlung.pdf
 all: $(PDF)
 
 %.pdf: %.md
