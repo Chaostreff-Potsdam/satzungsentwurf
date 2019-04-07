@@ -58,7 +58,22 @@ Organe des Vereins sind
 
 ## § 5 Mitgliedsversammlung
 
-Die Mitgliedsversammlung tritt mindestens einmal pro Kalenderjahr zusammen. Die Mitgliedsversammlung wird vom Vorstand mit einer Ladungsfrist von mindestens 14 Tagen und Angabe einer Tagesordnung schriftlich einberufen. `issue: /* Mitgliedsversammlungen finden stets als Präsenzveranstaltung statt. */`  Jedes Mitglied hat eine Stimme. `issue: /* Stimmrechtsübertragungen sind unzulässig und unwirksam. */` Vertreter juristischer Personen haben ihre Vertretungsberechtigung nachzuweisen. Die Mitgliedsversammlung fasst ihre Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmenthaltungen werden nicht mitgezählt. Jede ordnungsgemäß geladene Mitgliedsversammlung ist beschlussfähig. Versammlungsleiter ist der 1. Vorsitzende, der 2. Vorsitzende als sein Vertreter oder ein von der Mitgliedsversammlung zu Beginn zu wählender Versammlungsleiter. Über die Beschlüsse der Mitgliedsversammlung ist eine Niederschrift anzufertigen, die allen Mitgliedern binnen vier Wochen nach der Versammlung zuzustellen ist.
+(1) Die Mitgliedsversammlung tritt mindestens einmal pro Kalenderjahr zusammen. Die Mitgliedsversammlung wird vom
+ Vorstand mit einer Ladungsfrist von mindestens 14 Tagen und Angabe einer Tagesordnung schriftlich einberufen.
+ `issue: /* Mitgliedsversammlungen finden stets als Präsenzveranstaltung statt. */` 
+
+(2) Jedes Mitglied hat eine Stimme. `issue: /* Stimmrechtsübertragungen sind unzulässig und unwirksam. */` Vertreter juristischer Personen haben ihre Vertretungsberechtigung nachzuweisen.
+
+(3) Die Mitgliedsversammlung fasst ihre Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmenthaltungen 
+ werden nicht mitgezählt.
+
+(4) Jede ordnungsgemäß geladene Mitgliedsversammlung ist beschlussfähig.
+
+(5) Versammlungsleiter ist der 1. Vorsitzende, der 2. Vorsitzende als sein Vertreter oder ein von der
+ Mitgliedsversammlung zu Beginn zu wählender Versammlungsleiter.
+
+(6) Über die Beschlüsse der Mitgliedsversammlung ist eine Niederschrift anzufertigen, die allen Mitgliedern binnen vier
+ Wochen nach der Versammlung zuzustellen ist.
 
 
 
