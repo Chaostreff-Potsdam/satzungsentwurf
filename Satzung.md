@@ -99,7 +99,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen. Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken. Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
 
-(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. `issue: /* Ein Vereinsmitglied wird vom Vorstand als Schatzmeister mit der Verwaltung der Vereinsfinanzen beauftragt und gesondert bevollmächtigt; dieses berichtet direkt an den Vorstand. */` Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
+(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
 
 
 ## § 8 Satzungsänderungen
