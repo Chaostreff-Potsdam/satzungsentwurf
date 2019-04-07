@@ -103,6 +103,8 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. `issue: /* Ein Vereinsmitglied wird vom Vorstand als Schatzmeister mit der Verwaltung der Vereinsfinanzen beauftragt und gesondert bevollmächtigt; dieses berichtet direkt an den Vorstand. */` Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
 
+(3) Zur Finanzierung besonderer Vorhaben oder zur Beseitigung finanzieller Schwierigkeiten des Vereins können von den Mitgliedern Umlagen erhoben werden. Über die Notwendigkeit, Höhe und Fälligkeit von Umlagen und den Kreis der zahlungspflichtigen Mitglieder entscheidet die Mitgliederversammlung mit der einfachen Mehrheit der abgegebenen Stimmen. Die Höhe der Umlage darf das sechsfache des Mitgliedsbeitrags nicht übersteigen. Maßgebend ist der Jahresbeitrag, den das zahlungsverpflichtete Mitglied zum Zeitpunkt der Beschlussfassung über die Erhebung der Umlage zu zahlen hat.
+
 
 ## § 8 Satzungsänderungen
 
