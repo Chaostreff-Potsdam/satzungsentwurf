@@ -46,16 +46,40 @@ Errichtet am 10. April 2019 in Potsdam
 (3) Alle Vereinsmitglieder haben das Recht, vom Vorstand `issue: quorum?` unter Nennung gewünschter Tagesordnungspunkte und gegebenenfalls abzustimmender Beschlussvorlagen die Einberufung einer Mitgliedsversammlung zu verlangen, die binnen vier Wochen nach Eingang beim Vorstand stattzufinden hat.
 
 
+
 ## § 4 Organe
 
-(1) Organe des Vereins sind
+Organe des Vereins sind
 
 * die Mitgliedsversammlung und
 * der Vorstand.
 
-(2) Die Mitgliedsversammlung tritt mindestens einmal pro Kalenderjahr zusammen. Die Mitgliedsversammlung wird vom Vorstand mit einer Ladungsfrist von mindestens 14 Tagen und Angabe einer Tagesordnung schriftlich einberufen. `issue: /* Mitgliedsversammlungen finden stets als Präsenzveranstaltung statt. */`  Jedes Mitglied hat eine Stimme. `issue: /* Stimmrechtsübertragungen sind unzulässig und unwirksam. */` Vertreter juristischer Personen haben ihre Vertretungsberechtigung nachzuweisen. Die Mitgliedsversammlung fasst ihre Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmenthaltungen werden nicht mitgezählt. Jede ordnungsgemäß geladene Mitgliedsversammlung ist beschlussfähig. Versammlungsleiter ist der 1. Vorsitzende, der 2. Vorsitzende als sein Vertreter oder ein von der Mitgliedsversammlung zu Beginn zu wählender Versammlungsleiter. Über die Beschlüsse der Mitgliedsversammlung ist eine Niederschrift anzufertigen, die allen Mitgliedern binnen vier Wochen nach der Versammlung zuzustellen ist.
 
-(3) Der Vorstand besteht aus
+
+## § 5 Mitgliedsversammlung
+
+(1) Die Mitgliedsversammlung tritt mindestens einmal pro Kalenderjahr zusammen. Die Mitgliedsversammlung wird vom
+ Vorstand mit einer Ladungsfrist von mindestens 14 Tagen und Angabe einer Tagesordnung schriftlich einberufen.
+ `issue: /* Mitgliedsversammlungen finden stets als Präsenzveranstaltung statt. */` 
+
+(2) Jedes Mitglied hat eine Stimme. `issue: /* Stimmrechtsübertragungen sind unzulässig und unwirksam. */` Vertreter juristischer Personen haben ihre Vertretungsberechtigung nachzuweisen.
+
+(3) Die Mitgliedsversammlung fasst ihre Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmenthaltungen 
+ werden nicht mitgezählt.
+
+(4) Jede ordnungsgemäß geladene Mitgliedsversammlung ist beschlussfähig.
+
+(5) Versammlungsleiter ist der 1. Vorsitzende, der 2. Vorsitzende als sein Vertreter oder ein von der
+ Mitgliedsversammlung zu Beginn zu wählender Versammlungsleiter.
+
+(6) Über die Beschlüsse der Mitgliedsversammlung ist eine Niederschrift anzufertigen, die allen Mitgliedern binnen vier
+ Wochen nach der Versammlung zuzustellen ist.
+
+
+
+## § 6 Vorstand
+
+(1) Der Vorstand besteht aus
 
 * dem 1. Vorsitzenden,
 * dem 2. Vorsitzenden und
@@ -63,22 +87,24 @@ Errichtet am 10. April 2019 in Potsdam
 
 Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne des § 26 BGB. Sie vertreten den Verein jeweils allein gerichtlich und außergerichtlich.
 
-(4) Darüber hinaus kann die Mitgliedsversammlung bis zu drei Beisitzer als stimmberechtigte Vorstandsmitglieder wählen. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, Stimmenthaltungen werden nicht mitgezählt. Der Vorstand regelt seine Geschäftsverteilung durch gesonderten Vorstandsbeschluss und darf einzelnen Vereinsmitgliedern Vollmachten zur Vertretung des Vereins in bestimmten Angelegenheiten erteilen. Vorstandssitzungen werden vom 1. oder 2. Vorsitzenden mit einer Ladungfrist von drei Tagen schriftlich einberufen.
+(2) Darüber hinaus kann die Mitgliedsversammlung bis zu drei Beisitzer als stimmberechtigte Vorstandsmitglieder wählen. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, Stimmenthaltungen werden nicht mitgezählt. Der Vorstand regelt seine Geschäftsverteilung durch gesonderten Vorstandsbeschluss und darf einzelnen Vereinsmitgliedern Vollmachten zur Vertretung des Vereins in bestimmten Angelegenheiten erteilen. Vorstandssitzungen werden vom 1. oder 2. Vorsitzenden mit einer Ladungfrist von drei Tagen schriftlich einberufen.
 
-(5) Der Vorstand kann einzelne Personen als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand. Der Einberufende kann bestimmen, dass die Sitzung in fernmündlicher oder mittels sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
+(3) Der Vorstand kann einzelne Personen als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand. Die Einberufenen können bestimmen, dass die Sitzung in fernmündlicher oder mittels sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
 
-(6) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber einem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein 1. oder 2. Vorsitzender gegenüber dem Vorstand seinen Rücktritt `issue: /* oder scheidet aus, oder ist nicht mehr in der Lage, etc */`, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
+(4) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber einem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein 1. oder 2. Vorsitzender gegenüber dem Vorstand seinen Rücktritt `issue: /* oder scheidet aus, oder ist nicht mehr in der Lage, etc */`, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
 
-`issue: /* (7) Ist abwählen durch Mitgliedsversammlung, indem ... */`
+`issue: /* (5) Ist abwählen durch Mitgliedsversammlung, indem ... */`
 
-## § 5 Finanzen
+
+
+## § 7 Finanzen
 
 (1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen. Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken. Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
 
 (2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. `issue: /* Ein Vereinsmitglied wird vom Vorstand als Schatzmeister mit der Verwaltung der Vereinsfinanzen beauftragt und gesondert bevollmächtigt; dieses berichtet direkt an den Vorstand. */` Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
 
 
-## § 6 Satzungsänderungen
+## § 8 Satzungsänderungen
 
 (1) Über Änderungen und Ergänzungen dieser Satzung entscheidet die Mitgliedsversammlung mit Dreiviertelmehrheit. Sollten einzelne Bestimmungen dieser Satzung unwirksam sein oder werden, so gelten sie als durch solche wirksame Satzungsbestimmungen ersetzt, die dem Zweck der jeweiligen Bestimmung am nächsten kommen.
 
@@ -86,11 +112,11 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 
 
-## § 7 Auflösung
+## § 9 Auflösung
 
 Die Auflösung des Vereins geschieht durch Beschluss der Mitgliedsversammlung mit Dreiviertelmehrheit. Die Mitgliedsversammlung hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachnungen erfolgen im elektronischen Bundesanzeiger. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung mit einfacher Mehrheit zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
 
 
-## § 8 Kommunikation
+## § 10 Kommunikation
 
 Schriftliche Erklärungen im Sinne dieser Satzung sind handschriftlich unterschriebene Dokumente in Papierform sowie mit geeigneten Mitteln signierte elektronische Dokumente (E-Mail).
