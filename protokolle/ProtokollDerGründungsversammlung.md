@@ -19,26 +19,27 @@ Herr Schütze (nachfolgend Versammlungsleiter genannt) schlug als Wahlverfahren 
 ((+) für Zustimmung, (-) für Ablehnung und (o) für Enthaltungen)
 Auch diesem Vorschlag stimmten allen Anwesenden mündlich zu.
 
-/* ?
 Der Versammlungsleiter schlug folgende Tagesordnung (TOP) vor:
 
 **Tagesordnung**
 
-? 0./1. - Aussprache zur Gründung eines Vereins ??
-1. Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung
-2. Wahl des Vereinsvorstandes, sowie des Schatzmeisters
-3. Anmeldung des Vereins und weiteres Vorgehen
-4. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
+1. Aussprache zur Gründung eines Vereins
+2. Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung
+3. Wahl des Vereinsvorstandes, sowie des Schatzmeisters
+4. Anmeldung des Vereins und weiteres Vorgehen
+5. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
 ? Festlegung der Mitgliedsbeiträge ??
-5. Sonstiges
+6. Sonstiges
 
-?Abstimmung zur Tagesordnung ??
+Abstimmung zur Tagesordnung.
 **(+,-,o)**
-Die Anwesenden stimmten der Tagesordnung einstimmig zu. 
+/*Die Anwesenden stimmten der Tagesordnung einstimmig zu.*/
 
-*/
+## 1. Aussprache zur Gründung eines Vereins
 
-## 1. Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung
+//TODO: add content
+
+## 2. Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung
 
 Der Versammlungsleiter verlas den in der Anlage [2] wiedergegebenen Satzungsentwurf und fragte, ob dieser die Zustimmung der Anwesenden findet.
 /*Dies wurde durch Handzeichen einstimmig bejaht.*/ **(+,-,o)**
@@ -47,7 +48,7 @@ Der Versammlungsleiter fragte alle Anwesenden, ob sie dem Verein als Gründungsm
 /*Dies bejahten alle Anwesenden.*/ **(+,-,o)**
 Die Anwesenden unterschrieben die Satzung (Anlage [2]).
 
-## 2. Wahl des Vereinsvorstandes und des Schatzmeisters
+## 3. Wahl des Vereinsvorstandes und des Schatzmeisters
 
 Zur  Wahl  für  den  Vorstand  stellten  sich:
 
@@ -80,7 +81,7 @@ Herr Patrick Lühne,<br/>
 geboren am {}, wohnhaft in {}<br/>
 **(+,-,o)**
 
-Der Gewählte erklärte, dass er die Wahl annimmt. 
+Der Gewählte erklärte, dass er die Wahl annimmt.
 
 //// ????
  Der Versammlungsleiter schlug vor, die Herren Christoph Philipp Sterz und Sven Köhler zu jeweils /*alleinvertretungsberechtigten ?*/ Vorstandsmitgliedern zu wählen, und zwar Sterz zum ersten Vorsitzenden und Köhler zum zweiten Vorsitzenden. Beide sollen von den Beschränkungen des § 181 BGB befreit werden. /*?*/
@@ -88,7 +89,7 @@ Der Gewählte erklärte, dass er die Wahl annimmt.
 Nachdem keine weiteren Vorschläge gemacht wurden, wählte die Versammlung mit dieser Maßgabe einstimmig per Handzeichen, die Obengenannten in ihre Ämter.
 ////
 
-## 3. Anmeldung des Vereins und weiteres Vorgehen 
+## 4. Anmeldung des Vereins und weiteres Vorgehen
 
 Der Versammlungsleiter erklärte, es lägen ihm Absichtserklärungen von ca. 20 Personen vor, die dem Verein beizutreten wünschten.
 
@@ -103,7 +104,7 @@ Weiterhin wurde vorgeschlagen, dass der 1. Vorsitzende beauftragt und bevollmäc
 
 /*Auch diesem Antrag folgte die Versammlung einstimmig.*/
 
-## 4. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
+## 5. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
 
 Es wurde darüber abgestimmt, dass alle neuen Mitglieder, ihren vorgesehenen Mitgliedsbeitrag (zur Deckung der Ingangsetzungskosten), unverzüglich nach Mitteilung ihrer Aufnahme in den Verein, mangels eines Vereinskontos, dem Schatzmeister in Bar aushändigen sollen. Dieser gilt als regulärer Beitrag im ersten Mitgliedsmonat und stellt alleinig schnelle Liquidität zur Gründung sicher.
 Weitere Beitragsfragen soll die vom Vorstand zu erlassende Beitragsordnung regeln.
@@ -112,7 +113,7 @@ Weitere Beitragsfragen soll die vom Vorstand zu erlassende Beitragsordnung regel
 
 /*Diesem Antrag folgte die Versammlung einstimmig per Handzeichen.*/
 
-## 5. Sonstiges
+## 6. Sonstiges
 
 Der 1. Vorsitzende übernahm die Versammlungsleitung, dankte den Mitgliedern für ihre Mitwirkung und fragte, ob es weitere Anträge oder Fragen gibt. Nachdem dies nicht der Fall war, schloss er die Versammlung um {} Uhr.
 
