@@ -88,7 +88,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 ## § 7 Auflösung
 
-Die Auflösung des Vereins geschieht durch `issue: 3/4`-Beschluss der Mitgliedsversammlung. Diese hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachnungen erfolgen im elektronischen Bundesanzeiger. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung (quorum?) zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
+Die Auflösung des Vereins geschieht durch `issue: 3/4`-Beschluss der Mitgliedsversammlung. Diese hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachnungen erfolgen im elektronischen Bundesanzeiger. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung (`issue: quorum?`) zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
 
 
 
