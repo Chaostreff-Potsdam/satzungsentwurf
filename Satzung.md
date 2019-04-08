@@ -22,7 +22,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 (1) Die Mitgliedschaft im Verein steht allen natürlichen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand erworben.
 
-(2) Die Mitgliedschaft endet:
+(2) Die Mitgliedschaft endet
 
 1. durch schriftliche Austrittserklärung gegenüber einem Vorstandsmitglied,
 1. bei natürlichen Personen durch deren Tod,
