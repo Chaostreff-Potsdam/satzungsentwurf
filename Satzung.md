@@ -101,7 +101,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen. Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken. Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
 
-(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
+(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, woraufhin die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
 
 (3) Zur Finanzierung besonderer Vorhaben oder zur Beseitigung finanzieller Schwierigkeiten des Vereins können von den Mitgliedern Umlagen erhoben werden. Über die Notwendigkeit, Höhe und Fälligkeit von Umlagen und den Kreis der zahlungspflichtigen Mitglieder entscheidet die Mitgliederversammlung mit der einfachen Mehrheit der abgegebenen Stimmen. Die Höhe der Umlage darf das Sechsfache des zuletzt festgesetzten monatlichen Mitgliedsbeitrags nicht übersteigen.
 
@@ -116,7 +116,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 ## § 9 Auflösung
 
-Die Auflösung des Vereins geschieht durch Beschluss der Mitgliedsversammlung mit Dreiviertelmehrheit. Die Mitgliedsversammlung hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachnungen erfolgen im elektronischen Bundesanzeiger. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung mit einfacher Mehrheit zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
+Die Auflösung des Vereins geschieht durch Beschluss der Mitgliedsversammlung mit Dreiviertelmehrheit. Die Mitgliedsversammlung hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachnungen erfolgen im *elektronischen Bundesanzeiger*. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung mit einfacher Mehrheit zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
 
 
 ## § 10 Kommunikation
