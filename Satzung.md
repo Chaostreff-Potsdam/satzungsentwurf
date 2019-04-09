@@ -20,13 +20,12 @@ Errichtet am 10. April 2019 in Potsdam
 
 ## § 2 Mitgliedschaft
 
-(1) Die Mitgliedschaft im Verein steht allen natürlichen und juristischen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand erworben.
+(1) Die Mitgliedschaft im Verein steht allen natürlichen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand erworben.
 
 (2) Die Mitgliedschaft endet:
 
 1. durch schriftliche Austrittserklärung gegenüber einem Vorstandsmitglied,
 1. bei natürlichen Personen durch deren Tod,
-1. bei juristischen Personen durch Löschung, Auflösung, Liquidation, Eröffnung des Insolvenzverfahrens, Fusion, Rechtsformänderung, wesensveränderndem Eigentümerwechsel oder sonstiger Beendigung der rechtlichen Existenz oder
 1. durch Ausschluss aus dem Verein.
 
 (3) Der Vorstand kann Mitglieder wegen vereinsschädigenden Verhaltens sowie wegen Verstoßes gegen Verpflichtungen gemäß § 3 aus dem Verein ausschließen. Der Ausschluss ist an die letzte mitgeteilte Anschrift des betreffenden Mitglieds mitzuteilen und ist zum Zeitpunkt der Absendung wirksam. Dem Ausgeschlossenen steht die Berufung bei der nächsten Mitgliedsversammlung offen; diese entscheidet gegebenenfalls über die rückwirkende Unwirksamkeit des Ausschlusses.
@@ -44,7 +43,7 @@ Errichtet am 10. April 2019 in Potsdam
 1. dem Vorstand laufend und unverzüglich ihre aktuelle Anschrift mitzuteilen und
 1. auf gesonderte Ladung durch den Vorstand hin an Vorstandssitzungen und Mitgliedsversammlungen teilzunehmen.
 
-(2) Alle Vereinsmitglieder haben das Recht, an der Mitgliedsversammlung teilzunehmen und dort abzustimmen. Juristische Personen nehmen durch ihre gesetzlichen Vertreter teil und üben durch diese ihre Mitgliedschaftsrechte aus.
+(2) Alle Vereinsmitglieder haben das Recht, an der Mitgliedsversammlung teilzunehmen und dort abzustimmen.
 
 (3) Eine Gemeinschaft von mehr als drei Vereinsmitglieder hat das Recht, vom Vorstand unter Nennung gewünschter Tagesordnungspunkte und gegebenenfalls abzustimmender Beschlussvorlagen die Einberufung einer Mitgliedsversammlung zu verlangen. Diese Mitgliedsversammlung hat binnen vier Wochen nach Eingang beim Vorstand stattzufinden.
 
