@@ -95,7 +95,6 @@ Sämtliche Daten, die durch das Anbieten von Servern, Kontaktmöglichkeiten, Ver
     Webseite: {{serverhoster.url}}
 
 Entsprechende Verträge zur Auftragsverarbeitung liegen vor.
-Es findet keine Datenübermittlung in Drittländer außerhalb des EWR-Raumes statt.
 
 ---
 
