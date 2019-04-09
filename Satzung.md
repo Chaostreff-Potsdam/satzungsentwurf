@@ -9,9 +9,9 @@ Errichtet am 10. April 2019 in Potsdam
 
 ## § 1 Name, Sitz, Zweck und Geschäftsjahr
 
-(1) Der Verein trägt den Namen *Chaos Computer Club Potsdam* e. V. (CCCP). Er soll in das Vereinsregister eingetragen werden. Sitz des Vereins ist Potsdam. Der Verein wird in Abstimmung mit dem Chaos Computer Club e. V., Sitz Hamburg, als selbständiger Verein dessen lokale Repräsentanz bilden.
+(1) Der Verein trägt den Namen *Chaos Computer Club Potsdam* e. V. (CCCP). Er soll in das Vereinsregister eingetragen werden. Sitz des Vereins ist Potsdam.
 
-(2) Zweck des Vereins ist die Vernetzung von IT-Fachleuten und verwandter Fachpersonen mit dem Ziel des Betriebs eines Vereinsheims für Datenreisende.
+(2) Zweck des Vereins ist die Vernetzung von IT-Fachleuten und verwandter Fachpersonen mit dem Ziel des Betriebs eines Vereinsheims für Datenreisende. Der Verein fühlt sich dem Chaos Computer Club e. V., Sitz Hamburg und dessen Zielen verbunden.
 
 (3) Der Verein veranstaltet hierzu Tagungen, organisiert Erfahrungsaustausch, macht Beratungsangebote, sammelt Schenkungen, vergibt Preise, Zuschüsse und Stipendien und ergreift darüber hinaus alle zur Verfolgung des Vereinszwecks für sinnvoll erachteten Maßnahmen.
 
