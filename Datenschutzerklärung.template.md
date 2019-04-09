@@ -44,7 +44,7 @@ Wir verarbeiten die folgenden personenbezogenen Daten von Vereinsmitgliedern:
 
 Die von einem Vereinsmitglied bereitgestellten Daten sind zur Vertragserfüllung sowie zur Durchführung vorvertraglicher Maßnahmen erforderlich. Ohne diese Daten können wir den Vertrag mit dem Vereinsmitglied nicht abschließen. *Die Angabe von Bankverbindungsdaten (für das SEPA-Lastschriftverfahren) und die Erbringung eines Anspruchsnachweises für Ermäßigungen des Mitgliedsbeitrages sind nicht zwingend erforderlich.*
 
-Die personenbezogenen Daten des Vereinsmitglieds werden bei uns nur solange gespeichert, wie es für die jeweiligen Zwecke notwendig ist, für den wir diese Daten erhoben haben. Aus rechtlichen Gründen müssen wir Rechnungen, relevante Verträge und sonstige Dokumente für sechs oder zehn Jahre aufbewahren. In Einzelfällen kann die Speicherdauer mehr als zehn Jahre betragen, etwa bei anhängigen Behördenverfahren. In diesem Fall werden wir das Vereinsmitglied gesondert darüber informieren.
+Die personenbezogenen Daten des Vereinsmitglieds werden bei uns nur solange gespeichert, wie es für die jeweiligen Zwecke notwendig ist, für die wir diese Daten erhoben haben. Aus rechtlichen Gründen müssen wir Rechnungen, relevante Verträge und sonstige Dokumente für sechs oder zehn Jahre aufbewahren. In Einzelfällen kann die Speicherdauer mehr als zehn Jahre betragen, etwa bei anhängigen Behördenverfahren. In diesem Fall werden wir das Vereinsmitglied gesondert darüber informieren.
 
 *Wir haben entsprechende Autorisierungsstrukturen umgesetzt und Verschwiegenheitsverpflichtungen mit jenen Personen abgeschlossen, die Zugriff auf diese Daten haben.*
 
@@ -55,8 +55,6 @@ Die personenbezogenen Daten des Vereinsmitglieds werden bei uns nur solange gesp
 Eine Kontaktaufnahme über die bereitgestellten E-Mail-Adressen ist möglich. In diesem Fall werden die mit der E-Mail übermittelten personenbezogenen Daten des Nutzers gespeichert. Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für die Verarbeitung der Konversation oder des Anliegens verwendet.
 
 Die Verarbeitung der personenbezogenen Daten dient uns allein zur Bearbeitung der Kontaktaufnahme. Im Falle einer Kontaktaufnahme per E-Mail liegt hieran das erforderliche berechtigte Interesse an der Verarbeitung der Daten. Die sonstigen während des Absendevorgangs verarbeiteten personenbezogenen Daten dienen dazu, die Sicherheit unserer informationstechnischen Systeme sicherzustellen.
-
-Die Daten bleiben *maximal 3 Monate ab Beendigung der Korrespondenz* gespeichert, es sei denn, es bestehen gesetzliche Verpflichtungen, ein berechtigtes Interesse unsererseits oder sonstige vertragliche Verpflichtungen.
 
 Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung der personenbezogenen Daten zu widerrufen.
 
@@ -132,7 +130,7 @@ Sie haben das Recht, Ihre datenschutzrechtliche Einwilligungserklärung jederzei
 Sie haben ebenso das Recht aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1e oder 1f DSGVO erfolgt, Widerspruch einzulegen.
 
 Werden die Sie betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu
-betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung zum Zwecke derartiger Werbung einzulegen.
+betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung zum Zweck derartiger Werbung einzulegen.
 
 ### 6. Recht auf Beschwerde bei einer Aufsichtsbehörde
 
