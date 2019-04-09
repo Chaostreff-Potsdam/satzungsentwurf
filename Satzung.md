@@ -20,7 +20,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 ## § 2 Mitgliedschaft
 
-(1) Die Mitgliedschaft im Verein steht allen natürlichen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand und schrifliche Mitteilung der Aufnahme erworben.
+(1) Die Mitgliedschaft im Verein steht allen natürlichen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand und schriftliche Mitteilung der Aufnahme erworben.
 
 (2) Die Mitgliedschaft endet
 
