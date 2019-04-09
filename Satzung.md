@@ -11,7 +11,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 (1) Der Verein trägt den Namen *Chaos Computer Club Potsdam* e. V. (CCCP). Er soll in das Vereinsregister eingetragen werden. Sitz des Vereins ist Potsdam.
 
-(2) Zweck des Vereins ist die Vernetzung von IT-Fachleuten und verwandter Fachpersonen mit dem Ziel des Betriebs eines Vereinsheims für Datenreisende. Der Verein fühlt sich dem Chaos Computer Club e. V., Sitz Hamburg und dessen Zielen verbunden.
+(2) Zweck des Vereins ist die Vernetzung von IT-Fachleuten und verwandten Fachpersonen mit dem Ziel des Betriebs eines Vereinsheims für Datenreisende. Der Verein fühlt sich dem Chaos Computer Club e. V., Sitz Hamburg, und dessen Zielen verbunden.
 
 (3) Der Verein veranstaltet hierzu Tagungen, organisiert Erfahrungsaustausch, macht Beratungsangebote, sammelt Schenkungen, vergibt Preise, Zuschüsse und Stipendien und ergreift darüber hinaus alle zur Verfolgung des Vereinszwecks für sinnvoll erachteten Maßnahmen.
 
@@ -20,12 +20,12 @@ Errichtet am 10. April 2019 in Potsdam
 
 ## § 2 Mitgliedschaft
 
-(1) Die Mitgliedschaft im Verein steht allen natürlichen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand erworben.
+(1) Die Mitgliedschaft im Verein steht allen natürlichen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand und schrifliche Mitteilung der Aufnahme erworben.
 
 (2) Die Mitgliedschaft endet
 
 1. durch schriftliche Austrittserklärung gegenüber einem Vorstandsmitglied,
-1. bei natürlichen Personen durch deren Tod,
+1. durch Tod,
 1. durch Ausschluss aus dem Verein.
 
 (3) Der Vorstand kann Mitglieder wegen vereinsschädigenden Verhaltens sowie wegen Verstoßes gegen Verpflichtungen gemäß § 3 aus dem Verein ausschließen. Der Ausschluss ist an die letzte mitgeteilte Anschrift des betreffenden Mitglieds mitzuteilen und ist zum Zeitpunkt der Absendung wirksam. Dem Ausgeschlossenen steht die Berufung bei der nächsten Mitgliederversammlung offen; diese entscheidet gegebenenfalls über die rückwirkende Unwirksamkeit des Ausschlusses.
@@ -45,7 +45,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 (2) Alle Vereinsmitglieder haben das Recht, an der Mitgliederversammlung teilzunehmen und dort abzustimmen.
 
-(3) Eine Gemeinschaft von mehr als drei Vereinsmitglieder hat das Recht, vom Vorstand unter Nennung gewünschter Tagesordnungspunkte und gegebenenfalls abzustimmender Beschlussvorlagen die Einberufung einer Mitgliederversammlung zu verlangen. Diese Mitgliederversammlung hat binnen vier Wochen nach Eingang beim Vorstand stattzufinden.
+(3) Eine Gemeinschaft von mehr als drei Vereinsmitgliedern hat das Recht, vom Vorstand unter Nennung gewünschter Tagesordnungspunkte und gegebenenfalls abzustimmender Beschlussvorlagen die Einberufung einer Mitgliederversammlung zu verlangen. Diese Mitgliederversammlung hat binnen vier Wochen nach Eingang beim Vorstand stattzufinden.
 
 
 
