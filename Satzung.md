@@ -46,7 +46,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 (2) Alle Vereinsmitglieder haben das Recht, an der Mitgliedsversammlung teilzunehmen und dort abzustimmen. Juristische Personen nehmen durch ihre gesetzlichen Vertreter teil und üben durch diese ihre Mitgliedschaftsrechte aus.
 
-(3) Alle Vereinsmitglieder haben das Recht, vom Vorstand `issue: quorum?` unter Nennung gewünschter Tagesordnungspunkte und gegebenenfalls abzustimmender Beschlussvorlagen die Einberufung einer Mitgliedsversammlung zu verlangen, die binnen vier Wochen nach Eingang beim Vorstand stattzufinden hat.
+(3) Eine Gemeinschaft von mehr als drei Vereinsmitglieder hat das Recht, vom Vorstand unter Nennung gewünschter Tagesordnungspunkte und gegebenenfalls abzustimmender Beschlussvorlagen die Einberufung einer Mitgliedsversammlung zu verlangen. Diese Mitgliedsversammlung hat binnen vier Wochen nach Eingang beim Vorstand stattzufinden.
 
 
 
