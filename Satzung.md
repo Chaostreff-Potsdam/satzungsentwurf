@@ -22,7 +22,7 @@ Errichtet am 10. April 2019 in Potsdam
 
 (1) Die Mitgliedschaft im Verein steht allen natürlichen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand erworben.
 
-(2) Die Mitgliedschaft endet:
+(2) Die Mitgliedschaft endet
 
 1. durch schriftliche Austrittserklärung gegenüber einem Vorstandsmitglied,
 1. bei natürlichen Personen durch deren Tod,
@@ -91,7 +91,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (2) Darüber hinaus kann die Mitgliedsversammlung bis zu drei Beisitzer als stimmberechtigte Vorstandsmitglieder wählen. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, Stimmenthaltungen werden nicht mitgezählt. Der Vorstand regelt seine Geschäftsverteilung durch gesonderten Vorstandsbeschluss und darf einzelnen Vereinsmitgliedern Vollmachten zur Vertretung des Vereins in bestimmten Angelegenheiten erteilen. Vorstandssitzungen werden vom 1. oder 2. Vorsitzenden mit einer Ladungfrist von drei Tagen schriftlich einberufen.
 
-(3) Der Vorstand kann einzelne Personen als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand. Die Einberufenen können bestimmen, dass die Sitzung in fernmündlicher oder mittels sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
+(3) Der Vorstand kann einzelne Personen als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand. Die Einberufenen können bestimmen, dass die Sitzung mittels fernmündlicher oder sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
 
 (4) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber dem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein Vorstandsmitglied nach (1) gegenüber dem Vorstand seinen Rücktritt oder scheidet aus dem Verein aus oder ist langfristig an der Ausübung seines Amtes gehindert, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
 
@@ -101,7 +101,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (1) Der Verein finanziert seine Tätigkeit durch Beiträge, Umlagen und Schenkungen, ferner durch Erlöse aus Veranstaltungen und sonstigen dem Vereinszweck dienenden Maßnahmen. Der Verein ist nicht auf eigenwirtschaftliche Tätigkeit ausgerichtet und soll keine Gewinne erzielen, sondern vielmehr als Idealverein wirken. Entstehende Kosten und Defizite sind durch Beiträge und Umlagen der Mitglieder auszugleichen.
 
-(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, worauf die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
+(2) Beitrags- und Umlageverpflichtungen sowie Vorgaben zur Mittelverwendung werden durch vom Vorstand erlassene Ordnungen geregelt. Über die Annahme von Schenkungen entscheidet der Vorstand. Der gesamte Vorstand ist gegenüber der Mitgliedsversammlung für die Finanzen des Vereins verantwortlich und hat dieser mindestens einmal im Kalenderjahr einen Finanzbericht zu erstatten, woraufhin die Mitgliedsversammlung über die Entlastung des Vorstands abzustimmen hat.
 
 (3) Zur Finanzierung besonderer Vorhaben oder zur Beseitigung finanzieller Schwierigkeiten des Vereins können von den Mitgliedern Umlagen erhoben werden. Über die Notwendigkeit, Höhe und Fälligkeit von Umlagen und den Kreis der zahlungspflichtigen Mitglieder entscheidet die Mitgliederversammlung mit der einfachen Mehrheit der abgegebenen Stimmen. Die Höhe der Umlage darf das Sechsfache des zuletzt festgesetzten monatlichen Mitgliedsbeitrags nicht übersteigen.
 
@@ -116,7 +116,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 ## § 9 Auflösung
 
-Die Auflösung des Vereins geschieht durch Beschluss der Mitgliedsversammlung mit Dreiviertelmehrheit. Die Mitgliedsversammlung hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachnungen erfolgen im elektronischen Bundesanzeiger. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung mit einfacher Mehrheit zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
+Die Auflösung des Vereins geschieht durch Beschluss der Mitgliedsversammlung mit Dreiviertelmehrheit. Die Mitgliedsversammlung hat einen Liquidator zu bestellen. Diesbezügliche Bekanntmachungen erfolgen im *elektronischen Bundesanzeiger*. Ein eventueller Liquidationserlös wird nicht an die Vereinsmitglieder ausgeschüttet, sondern kommt einem von der Mitgliedsversammlung mit einfacher Mehrheit zu bestimmenden Zweck oder Empfänger zu. Mangels anderslautenden Beschlusses fällt der Liquidationserlös an das Land Brandenburg.
 
 
 ## § 10 Kommunikation
