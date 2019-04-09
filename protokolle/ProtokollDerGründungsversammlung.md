@@ -17,9 +17,9 @@ Dieser Vorschlag wurde einstimmig angenommen.
 
 Herr Schütze (nachfolgend Versammlungsleiter genannt) schlug als Wahlverfahren für alle Abstimmungen, das Abstimmen durch Handzeichen vor.
 ((+) für Zustimmung, (-) für Ablehnung und (o) für Enthaltungen)
-Auch diesem Vorschlag stimmten allen Anwesenden mündlich zu.
+Auch diesem Vorschlag stimmten allen Anwesenden zu.
 
-Der Versammlungsleiter schlug folgende Tagesordnung (TOP) vor:
+Der Versammlungsleiter schlug folgende Tagesordnung (TO) vor:
 
 ---
 
@@ -27,7 +27,7 @@ Der Versammlungsleiter schlug folgende Tagesordnung (TOP) vor:
 
 1. Aussprache zur Gründung eines Vereins
 2. Diskussion eines Satzungsentwurfs und Verabschiedung der Vereinssatzung
-3. Wahl des Vereinsvorstandes, sowie des Schatzmeisters
+3. Wahl des Vereinsvorstandes
 4. Anmeldung des Vereins und weiteres Vorgehen
 5. Festlegung der Mitgliedsbeiträge
 6. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
@@ -54,18 +54,19 @@ Die Anwesenden begrüßten diese Vorschläge und sprachen sich somit einstimmig 
 Der Versammlungsleiter verlas den in der Anlage [2] wiedergegebenen Satzungsentwurf und fragte, ob dieser die Zustimmung der Anwesenden findet.
 /*Dies wurde durch Handzeichen einstimmig bejaht.*/ **(+,-,o)**
 
-Der Versammlungsleiter fragte alle Anwesenden, ob sie dem Verein als Gründungsmitglieder beitreten und die Satzung /*errichten und*/ unterzeichnen wollen.
+Der Versammlungsleiter fragte alle Anwesenden, ob sie dem Verein als Gründungsmitglieder beitreten und die Satzung errichten und unterzeichnen wollen.
 /*Dies bejahten alle Anwesenden.*/ **(+,-,o)**
 Die Anwesenden unterschrieben die Satzung (Anlage [2]).
 
-## 3. Wahl des Vereinsvorstandes und des Schatzmeisters
+## 3. Wahl des Vereinsvorstandes
 
 Zur  Wahl  für  den  Vorstand  stellten  sich:
 
 - Christoph Philipp Sterz
 - Sven Köhler
+- Patrick Lühne
 
-Gewählt wurden:
+Als Vorstand gewählt wurden:
 
 als 1. Vorsitzender <br/>
 Herr Christoph Philipp Sterz,<br/>
@@ -77,27 +78,12 @@ Herr Sven Köhler,<br/>
 geboren am {}, wohnhaft in {}<br/>
 **(+,-,o)**
 
-/*Damit wurde der vertretungsberechtigte Vorstand gewählt.*/
-Die Gewählten erklärten, dass sie die Wahl annehmen.
-
-Zur Wahl als Schatzmeister stellte sich:
-
-- Patrick Lühne
-
-Gewählt wurde:
-
 als Schatzmeister <br/>
 Herr Patrick Lühne,<br/>
 geboren am {}, wohnhaft in {}<br/>
 **(+,-,o)**
 
-Der Gewählte erklärte, dass er die Wahl annimmt.
-
-//// ????
- Der Versammlungsleiter schlug vor, die Herren Christoph Philipp Sterz und Sven Köhler zu jeweils /*alleinvertretungsberechtigten ?*/ Vorstandsmitgliedern zu wählen, und zwar Sterz zum ersten Vorsitzenden und Köhler zum zweiten Vorsitzenden. Beide sollen von den Beschränkungen des § 181 BGB befreit werden. /*?*/
-
-Nachdem keine weiteren Vorschläge gemacht wurden, wählte die Versammlung mit dieser Maßgabe einstimmig per Handzeichen, die Obengenannten in ihre Ämter.
-////
+Die Gewählten erklärten, dass sie die Wahl annehmen.
 
 ## 4. Anmeldung des Vereins und weiteres Vorgehen
 
@@ -106,13 +92,13 @@ Der Versammlungsleiter erklärte, es lägen ihm Absichtserklärungen von ca. 20 
 Er schlug vor, dass der Vorstand ermächtigt wird, gegebenenfalls durch Vorstandsbeschluss, Änderungen an der Satzung vorzunehmen, von denen das Registergericht die Eintragung ins Vereinsregister abhängig macht.
 **(+,-,o)**
 
-/*Dies wurde einstimmig beschlossen.*/
+Dies wurde einstimmig beschlossen.
 
 
-Weiterhin wurde vorgeschlagen, dass der 1. Vorsitzende beauftragt und bevollmächtigt wird, über einen Notar die Gründung des Vereins beim Vereinsregister anzuzeigen und ein Bankkonto auf den Namen des Vereins einzurichten. Hierzu kann er anderen Vereinsmitgliedern entsprechend Vollmacht erteilen.
+Weiterhin wurde vorgeschlagen, dass der 1. oder 2. Vorsitzende beauftragt und bevollmächtigt wird, über einen Notar die Gründung des Vereins beim Vereinsregister anzuzeigen. Der Schatzmeister wird angewiesen ein Bankkonto auf den Namen des Vereins einzurichten.
 **(+,-,o)**
 
-/*Auch diesem Antrag folgte die Versammlung einstimmig.*/
+Auch diesem Antrag folgte die Versammlung einstimmig.
 
 ## 5. Festlegung der Mitgliedsbeiträge
 
@@ -120,23 +106,23 @@ Der Versammlungsleiter verlas den Entwurf der Beitragsordnung (Anlage [3]) und s
 
 **(+,-,o)**
 
-Damit wurde die Beitragsordnung wie in Anlage [3] beschrieben von der Versammlung angenommen.
+Damit wurde die Beitragsordnung (in der Fassung der Anlage [3]) von der Versammlung angenommen.
 
 ## 6. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
 
-Es wurde darüber abgestimmt, dass alle neuen Mitglieder, ihren vorgesehenen Mitgliedsbeitrag (zur Deckung der Ingangsetzungskosten), unverzüglich nach Mitteilung ihrer Aufnahme in den Verein, mangels eines Vereinskontos, dem Schatzmeister in Bar aushändigen sollen. Dieser gilt als regulärer Beitrag im ersten Mitgliedsmonat und stellt alleinig schnelle Liquidität zur Gründung sicher.
+Der Versammlungsleiter schlug vor, dass alle Gründungsmitglieder dem Schatzmeister zur Deckung der Gründungskosten sofort ihren ersten Mitgliedsbeitrag in bar zu entrichten haben.
 
 **(+,-,o)**
 
-/*Diesem Antrag folgte die Versammlung einstimmig per Handzeichen.*/
+Diesem Antrag folgte die Versammlung einstimmig per Handzeichen.
 
 ## 7. Sonstiges
 
-Der 1. Vorsitzende übernahm die Versammlungsleitung, dankte den Mitgliedern für ihre Mitwirkung und fragte, ob es weitere Anträge oder Fragen gibt. Nachdem dies nicht der Fall war, schloss er die Versammlung um {} Uhr.
+Der 1. Vorsitzende übernahm die Versammlungsleitung, dankte den Mitgliedern für ihre Mitwirkung und fragte, ob es weitere Anträge oder Fragen gebe. Nachdem dies nicht der Fall war, schloss er die Versammlung um {} Uhr.
 
-    -------------------------------   ------------------------------------
-    Unterschrift des Schriftführers   Unterschrift des Versammlungsleiters
-    Felix Grzelka                     Stephan Schütze
+    -------------------------------   ------------------------------------   ------------------------------------
+    Unterschrift des Schriftführers   Unterschrift des Versammlungsleiters   Unterschrift des 1. Vorsitzenden
+    Felix Grzelka                     Stephan Schütze                        Christoph Philipp Sterz
 
 [1] Anlage Anwesenheitsliste
 
