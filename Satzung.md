@@ -95,6 +95,8 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (4) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber dem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein Vorstandsmitglied nach (1) gegenüber dem Vorstand seinen Rücktritt oder scheidet aus dem Verein aus oder ist langfristig an der Ausübung seines Amtes gehindert, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
 
+(5) Die Vorstandsmitglieder sind von den Beschränkungen des § 181 BGB befreit.
+
 
 
 ## § 7 Finanzen
