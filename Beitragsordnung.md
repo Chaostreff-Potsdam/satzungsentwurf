@@ -15,17 +15,17 @@
 
 ## § 2 Fälligkeit
 
-Der Mitgliedsbeitrag wird jeweils zum 1. des Monats bzw. mit der Annahme des Aufnahmeantrags fällig.
+Der Mitgliedsbeitrag wird jeweils zum 1. des Monats sowie mit der Annahme des Aufnahmeantrags fällig.
 
 ## § 3 Zahlungsweise
 
-(1) Die Zahlung des Beitrages erfolgt monatlich per Überweisung auf das Konto des CCCP e.V. Es wird empfohlen, einen Dauerauftrag einzurichten.
+(1) Die Zahlung des Beitrages erfolgt monatlich auf das Konto des CCCP e. V. Es wird empfohlen, einen Dauerauftrag einzurichten.
 
 (2) Alternativ zu Abs. (1) kann nach Absprache eine Barzahlung an den Schatzmeister erfolgen.
 
 ## § 4 Säumnis
 
-Im Säumnisfall wird das Mitglied nach dreimonatigem Ausbleiben des Beitrags gemahnt. Zahlt ein Mitglied trotz zweifacher Mahnung (in Textform) oder länger als drei Monate den Beitrag nicht, so gilt nach Ablauf eines Monates nach der zweiten Mahnung die Nichtzahlung als Austritt. In der zweiten Mahnung ist auf die Folgen der Nichtzahlung hinzuweisen.
+Im Säumnisfall wird das Mitglied nach dreimonatigem Ausbleiben des Beitrags schriftlich gemahnt. Zahlt ein Mitglied trotz zweifacher Mahnung oder länger als drei Monate den Beitrag nicht, so gilt nach Ablauf eines Monates nach der zweiten Mahnung die Nichtzahlung als Austritt. In der zweiten Mahnung ist auf die Folgen der Nichtzahlung hinzuweisen.
 
 ## § 5 Aufnahmegebühren
 
@@ -35,4 +35,3 @@ Aufnahmegebühren werden nicht erhoben.
 
 Eine Erstattung von Mitgliedsbeiträgen findet nicht statt.
 
-`issue: hier kommt vermutlich mehr Rechts-Foo hin`
