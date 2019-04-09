@@ -1,7 +1,6 @@
 # Informationsblatt Datenschutz
 
-Sehr geehrtes Mitglied,
-wir sind gemäß DSGVO dazu verpflichtet, Sie über die Verarbeitung Ihrer Daten im Verlaufe unserer vorvertraglichen und vertraglichen Maßnahmen zu informieren. Bitte nehmen Sie sich einen Moment Zeit, um dieses Informationsblatt durchzulesen.
+Wir sind gemäß DSGVO dazu verpflichtet, Sie über die Verarbeitung Ihrer Daten im Verlaufe unserer vorvertraglichen und vertraglichen Maßnahmen zu informieren. Bitte nehmen Sie sich einen Moment Zeit, um dieses Informationsblatt durchzulesen.
 
 ---
 
@@ -19,35 +18,35 @@ wir sind gemäß DSGVO dazu verpflichtet, Sie über die Verarbeitung Ihrer Daten
 
 ## 2. Rechtsgrundlagen
 
-Wir werden Ihre Daten aus folgenden Gründen rechtmäßig verarbeiten:
+Wir verarbeiten Ihre personenbezogenen Daten rechtmäßig basierend auf Ihrer ausdrücklichen Einwilligung (Art. 6 Abs. 1a DSGVO) für die folgenden Zwecke:
 
-1. Basierend auf Ihrer ausdrücklichen Einwilligung zur Verarbeitung der Sie betreffenden personenbezogenen Daten. (Artikel 6 Absatz 1a DSGVO). Sie haben das Recht, diese Einwilligung jederzeit zu widerrufen, ohne dass die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung berührt wird;
+1. zur Erfüllung unserer vertraglichen Verpflichtungen (Art. 6 Abs. 1b DSGVO),
+1. zur Durchführung vorvertraglicher Maßnahmen (Art. 6 Abs. 1b DSGVO) und
+1. zur Wahrung gesetzlicher Pflichten (Art. 6 Abs. 1c DSGVO).
 
-1. zur Erfüllung unserer vertraglichen Verpflichtungen (Artikel 6 Absatz 1b DSGVO);
-1. zur Durchführung vorvertraglicher Maßnahmen (Artikel 6 Absatz 1b DSGVO);
-1. zur Wahrung gesetzlicher Pflichten (Artikel 6 Absatz 1c DSGVO).
+Außerdem verarbeiten wir Ihre Daten aufgrund des berechtigten Interesses unseres Vereins (Art. 6 Abs. 1f DSGVO). Dies umfasst:
 
-Außerdem werden wir Ihre Daten aufgrund des berechtigten Interesses unseres Vereins (Artikel 6 Absatz 1 f) DSGVO) verarbeiten, diese sind:
+1. interne Verwaltung und notwendige Korrespondenz,
+1. Buchhaltung und
+1. Geltendmachung, Ausübung oder Verteidigung rechtlicher Ansprüche.
 
-1. Interne Verwaltung / Notwendige Korrespondenz
-
-2. Buchhaltung
-
-3. Geltendmachung, Ausübung oder Verteidigung rechtlicher Ansprüche
+Sie haben das Recht, diese Einwilligung jederzeit zu widerrufen, ohne dass die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung berührt wird.
 
 ---
 
-## 3. Datenverarbeitung Mitgliedschaft
+## 3. Datenverarbeitung Vereinsmitgliedschaft
 
-1. Kontaktdaten: Name, vollständige Adresse, E-Mail-Adresse
-2. Finanzdaten: IBAN, BIC, Kreditinstitut
-3. Sonstige Daten: Bescheinigungen (Anspruchsnachweis, Spendenquittung etc.), ehrenamtliche Tätigkeiten für den Verein
+Wir verarbeiten die folgenden personenbezogenen Daten von Vereinsmitgliedern:
 
-Die von Ihnen bereit gestellten Daten sind zur Vertragserfüllung bzw zur Durchführung vorvertraglicher Maßnahmen erforderlich. Ohne diese Daten können wir den Vertrag mit Ihnen nicht abschließen. **Die Angabe von Finanzdaten (SEPA Lastschrift) und die Erbringung eines Anspruchsnachweises für Ermäßigungen des Mitgliedsbeitrages sind nicht zwingend erforderlich und als optional anzusehen.**
+1. Kontaktdaten (Name, vollständige Adresse und E-Mail-Adresse),
+1. Bankverbindungsdaten (Kontoinhaber, Kreditinstitut, BIC und IBAN) und
+1. sonstige Daten (Bescheinigungen (Anspruchsnachweis, Spendenquittung etc.) und ehrenamtliche Tätigkeiten für den Verein).
 
-Ihre Daten werden bei uns nur solange gespeichert, wie es für die jeweiligen Zwecke notwendig ist, für den wir Ihre Daten erhoben haben. Es ist allerdings zu berücksichtigen, dass wir aus rechtlichen Gründen Rechnungen, relevante Verträge und sonstige Dokumente für sechs oder zehn Jahre aufbewahren müssen. Es kann vorkommen, dass die Speicherdauer mehr als zehn Jahre beträgt, etwa bei anhängigen Behördenverfahren. Wir werden Sie in diesem Fall gesondert darüber informieren.
+Die von einem Vereinsmitglied bereitgestellten Daten sind zur Vertragserfüllung sowie zur Durchführung vorvertraglicher Maßnahmen erforderlich. Ohne diese Daten können wir den Vertrag mit dem Vereinsmitglied nicht abschließen. *Die Angabe von Bankverbindungsdaten (für das SEPA-Lastschriftverfahren) und die Erbringung eines Anspruchsnachweises für Ermäßigungen des Mitgliedsbeitrages sind nicht zwingend erforderlich.*
 
-**Wir haben entsprechende Autorisierungsstrukturen umgesetzt und Verschwiegenheitsverpflichtungen mit jenen Personen abgeschlossen, die Zugriff auf diese Daten haben.**
+Die personenbezogenen Daten des Vereinsmitglieds werden bei uns nur solange gespeichert, wie es für die jeweiligen Zwecke notwendig ist, für den wir diese Daten erhoben haben. Aus rechtlichen Gründen müssen wir Rechnungen, relevante Verträge und sonstige Dokumente für sechs oder zehn Jahre aufbewahren. In Einzelfällen kann die Speicherdauer mehr als zehn Jahre betragen, etwa bei anhängigen Behördenverfahren. In diesem Fall werden wir das Vereinsmitglied gesondert darüber informieren.
+
+*Wir haben entsprechende Autorisierungsstrukturen umgesetzt und Verschwiegenheitsverpflichtungen mit jenen Personen abgeschlossen, die Zugriff auf diese Daten haben.*
 
 ---
 
@@ -57,7 +56,7 @@ Eine Kontaktaufnahme über die bereitgestellten E-Mail-Adressen ist möglich. In
 
 Die Verarbeitung der personenbezogenen Daten dient uns allein zur Bearbeitung der Kontaktaufnahme. Im Falle einer Kontaktaufnahme per E-Mail liegt hieran das erforderliche berechtigte Interesse an der Verarbeitung der Daten. Die sonstigen während des Absendevorgangs verarbeiteten personenbezogenen Daten dienen dazu, die Sicherheit unserer informationstechnischen Systeme sicherzustellen.
 
-Die Daten bleiben **maximal 3 Monate ab Beendigung der Korrespondenz** gespeichert, es sei denn, es bestehen gesetzliche Verpflichtungen, ein berechtigtes Interesse unsererseits oder sonstige vertragliche Verpflichtungen.
+Die Daten bleiben *maximal 3 Monate ab Beendigung der Korrespondenz* gespeichert, es sei denn, es bestehen gesetzliche Verpflichtungen, ein berechtigtes Interesse unsererseits oder sonstige vertragliche Verpflichtungen.
 
 Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung der personenbezogenen Daten zu widerrufen.
 
@@ -69,23 +68,21 @@ Sollte der Nutzer der Speicherung der Daten widersprechen wollen, kann der Wider
 
 ## 5. Datenverarbeitung Newsletter
 
-Wir versenden regelmäßig Newsletter an Mitglieder mit Neuigkeiten und Informationen über den Verein und dessen Tätigkeiten.
+Wir versenden regelmäßig Newsletter mit Neuigkeiten und Informationen über den Verein und dessen Tätigkeiten an Abonnenten.
 
-Der Newsletter kann nur empfangen werden, wenn wir eine gültige Einwilligung, zum Beispiel im Rahmen des Mitgliedsantrags, erteilt bekommen und eine E-Mail-Adresse angegeben wurde. In diesem Fall wird die E-Mail-Adresse und die Einwilligung gespeichert. Wir senden vorab eine zusätzlich E-Mail, um zu Überprüfen, ob die E-Mail-Adresse gültig und der Inhaber des Kontos die Einwilligung erteilt hat (*double opt-in*).
+Wir versenden Newsletter nur an Abonnenten, die uns eine ausdrückliche Einwilligung diesbezüglich erteilt und eine E-Mail-Adresse angegeben haben. In diesem Fall werden die E-Mail-Adresse und die Einwilligung gespeichert. Um zu überprüfen, dass eine angegebene E-Mail-Adresse gültig ist und dessen Inhaber tatsächlich die Einwilligung erteilt hat, senden wir vorab eine zusätzliche Bestätigungs-E-Mail (*double opt-in*).
 
-Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für den Versand des Newsletters verwendet.
+Es erfolgt in diesem Zusammenhang keine Weitergabe der Daten an Dritte. Die Daten werden ausschließlich für den Versand der Newsletter verwendet.
 
-Die Daten bleiben **bis zur Abmeldung** gespeichert, es sei denn, es bestehen gesetzliche Verpflichtungen, ein berechtigtes Interesse unsererseits oder sonstige vertragliche Verpflichtungen.
+Die Daten bleiben *bis zur Abmeldung* gespeichert, es sei denn, es bestehen gesetzliche Verpflichtungen, ein berechtigtes Interesse unsererseits oder sonstige vertragliche Verpflichtungen.
 
 Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung der personenbezogenen Daten zu widerrufen. Dafür genügt eine formlose E-Mail an {{abmeldung.mail}} mit dem Betreff „Abmeldung Newsletter“. Ein entsprechender Hinweis zur Abmeldung befindet sich zusätzlich in jedem Newsletter.
 
 ---
 
-## 6. Auftragsverarbeiter
+## 6. Auftragsverarbeiter Server-Hosting: {{serverhoster.name}}
 
-### 1. {{serverhoster.name}}: Serverhosting
-
-Sämtliche Daten, die durch Anbieten von Servern, Kontaktmöglichkeiten, Verwaltungssystemen und Webseiten des Vereins anfallen, werden auf Serversystemen von {{serverhoster.name}} gespeichert. Verantwortlicher des Unternehmens ist:
+Sämtliche Daten, die durch das Anbieten von Servern, Kontaktmöglichkeiten, Verwaltungssystemen und Webseiten des Vereins anfallen, werden auf Serversystemen von {{serverhoster.name}} gespeichert. Verantwortlicher des Unternehmens ist:
 
     {{serverhoster.verantwortlich}}
     {{serverhoster.name}}
@@ -102,15 +99,15 @@ Es findet keine Datenübermittlung in Drittländer außerhalb des EWR-Raumes sta
 
 ---
 
-## 7. Rechte der betroffenen Person
+## 7. Rechte der betroffenen Personen
 
 ### 1. Auskunftsrecht
 
 Sie können von dem Verantwortlichen eine Bestätigung darüber verlangen, ob personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden.
 
-Dazu zählen unter anderem: Kategorie der personenbezogenen Daten, Empfänger, Verarbeitungszwecke, Speicherdauer, Herkunft (sofern die Daten aus Drittquellen kommen), Informationen über automatisierte Entscheidungsfindung, deren Details und gegebenenfalls Profiling. (Wir führen die beiden letzten Punkte nicht durch.)
+Dazu zählen unter anderem: Kategorie der personenbezogenen Daten, Empfänger, Verarbeitungszwecke, Speicherdauer, Herkunft (sofern die Daten aus Drittquellen kommen), Informationen über automatisierte Entscheidungsfindung, deren Details und gegebenenfalls Profiling. (Wir wenden weder automatisierte Entscheidungsfindungsverfahren noch Profiling an.)
 
-Außerdem können Sie Auskunft über Ihre Rechte (Beschwerderecht, Löschung, Berichtigung, Einschränkung der Verarbeitung) verlangen.
+Außerdem können Sie Auskunft über Ihre Rechte verlangen (Beschwerderecht, Löschung, Berichtigung, Einschränkung der Verarbeitung).
 
 ### 2. Recht auf Berichtigung
 
@@ -145,13 +142,13 @@ Ihnen steht das Recht auf Beschwerde bei einer Aufsichtsbehörde zu, wenn Sie de
 
 ## 8. Schlussworte
 
-Wir hoffen, dass wir Ihnen mit diesen Informationen Klarheit über die Prozesse verschafft haben. Sollten Sie noch Fragen zur Verarbeitung Ihrer Daten haben oder andere Anliegen, die dieses Thema betreffen, zögern Sie bitte nicht, sich an uns zu wenden.
+Wir hoffen, dass wir Ihnen mit diesen Informationen Klarheit über die Prozesse zur Verarbeitung Ihrer personenbezogenen Daten verschafft haben. Sollten Sie noch Fragen zur Verarbeitung Ihrer Daten haben oder andere Anliegen, die dieses Thema betreffen, zögern Sie bitte nicht, sich an uns zu wenden.
 
 Stand {{ now().strftime("%d.%m.%Y") }}
 
 ## Einwilligung
 
-Ich erteile meine Einwilligung zur Verarbeitung meiner personenbezogenen Daten.
+Ich habe diese Datenschutzerklärung zur Kenntnis genommen und erteile dem Chaos Computer Club Potsdam e. V. meine Einwilligung zur Verarbeitung meiner personenbezogenen Daten.
 
 <br/>
 <br/>
