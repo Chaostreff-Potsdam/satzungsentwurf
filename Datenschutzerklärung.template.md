@@ -38,7 +38,7 @@ Sie haben das Recht, diese Einwilligung jederzeit zu widerrufen, ohne dass die R
 
 Wir verarbeiten die folgenden personenbezogenen Daten von Vereinsmitgliedern:
 
-1. Kontaktdaten (Name, vollständige Adresse und E-Mail-Adresse),
+1. persönliche Daten (vollständiger Name, Geburtsdatum, Pseudonym oder Mitgliedsnummer, vollständige Adresse, E-Mail-Adresse und PGP-Fingerprint),
 1. Bankverbindungsdaten (Kontoinhaber, Kreditinstitut, BIC und IBAN) und
 1. sonstige Daten (Bescheinigungen (Anspruchsnachweis, Spendenquittung etc.) und ehrenamtliche Tätigkeiten für den Verein).
 
