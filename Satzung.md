@@ -93,7 +93,7 @@ Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne de
 
 (3) Der Vorstand kann einzelne Personen als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand. Die Einberufenen können bestimmen, dass die Sitzung in fernmündlicher oder mittels sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
 
-(4) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber einem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein Vorstandsmitglied gegenüber dem Vorstand seinen Rücktritt, scheidet es aus dem Verein aus, oder ist langfristig an der Ausübung seines Amtes gehindert, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
+(4) Die Vorstandsmitglieder bleiben im Amt, bis die Mitgliedsversammlung einen Nachfolger wählt. Dies soll in der Regel nach zweijähriger Amtzeit geschehen; die Wiederwahl ist zulässig. Erklärt ein Beisitzer gegenüber dem Vorstand seinen Rücktritt, so scheidet er damit aus. Erklärt ein Vorstandsmitglied nach (1) gegenüber dem Vorstand seinen Rücktritt oder scheidet aus dem Verein aus oder ist langfristig an der Ausübung seines Amtes gehindert, so wählt die Mitgliedsversammlung binnen vier Wochen einen Nachfolger.
 
 
 
