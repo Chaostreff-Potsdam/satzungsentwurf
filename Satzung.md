@@ -64,7 +64,7 @@ Organe des Vereins sind
  Vorstand mit einer Ladungsfrist von mindestens 14 Tagen und Angabe einer Tagesordnung schriftlich einberufen.
  Mitgliedsversammlungen finden stets als Präsenzveranstaltung statt.
 
-(2) Jedes Mitglied hat eine Stimme. Stimmrechtsübertragungen sind unzulässig und unwirksam. Vertreter juristischer Personen haben ihre Vertretungsberechtigung nachzuweisen.
+(2) Jedes Mitglied hat eine Stimme. Stimmrechtsübertragungen sind unzulässig und unwirksam.
 
 (3) Die Mitgliedsversammlung fasst ihre Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen. Stimmenthaltungen 
  werden nicht mitgezählt.
