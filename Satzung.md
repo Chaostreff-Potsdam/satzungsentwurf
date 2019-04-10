@@ -25,7 +25,7 @@ Errichtet am 10. April 2019 in Potsdam
 (2) Die Mitgliedschaft endet
 
 1. durch schriftliche Austrittserklärung gegenüber einem Vorstandsmitglied,
-1. durch Tod,
+1. durch Tod oder
 1. durch Ausschluss aus dem Verein.
 
 (3) Der Vorstand kann Mitglieder wegen vereinsschädigenden Verhaltens sowie wegen Verstoßes gegen Verpflichtungen gemäß § 3 aus dem Verein ausschließen. Der Ausschluss ist an die letzte mitgeteilte Anschrift des betreffenden Mitglieds mitzuteilen und ist zum Zeitpunkt der Absendung wirksam. Dem Ausgeschlossenen steht die Berufung bei der nächsten Mitgliederversammlung offen; diese entscheidet gegebenenfalls über die rückwirkende Unwirksamkeit des Ausschlusses.
