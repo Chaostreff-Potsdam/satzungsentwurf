@@ -91,7 +91,7 @@ Diese werden von der Mitgliederversammlung gewählt und sind Vorstand im Sinne d
 
 (2) Darüber hinaus kann die Mitgliederversammlung bis zu drei Beisitzer als stimmberechtigte Vorstandsmitglieder wählen. Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, Stimmenthaltungen werden nicht mitgezählt. Der Vorstand regelt seine Geschäftsverteilung durch gesonderten Vorstandsbeschluss und darf einzelnen Vereinsmitgliedern Vollmachten zur Vertretung des Vereins in bestimmten Angelegenheiten erteilen.
 
-(3) Vorstandssitzungen werden vom 1. oder 2. Vorsitzenden mit einer Ladungfrist von drei Tagen schriftlich einberufen. Der Einberufende kann bestimmen, dass die Sitzung mittels fernmündlicher oder sonstiger Nachrichtenübermittlung geschieht. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
+(3) Vorstandssitzungen werden vom 1. oder 2. Vorsitzenden mit einer Ladungfrist von drei Tagen schriftlich einberufen. Der Einberufende kann bestimmen, dass die Sitzung mittels fernmündlicher oder sonstiger Nachrichtenübermittlung geschieht. Eine Vorstandssitzung ist beschlussfähig, wenn sie ordnungsgemäß geladen wurde und mehr als die Hälfte der stimmberechtigten Vorstandsmitglieder anwesend sind. Über die Beschlüsse ist eine Niederschrift anzufertigen, die allen Vorstandmitgliedern binnen einer Woche nach der Sitzung zuzustellen ist.
 
 (4) Der Vorstand kann einzelne Personen als Berater hinzuziehen, diese haben dann kein Stimmrecht im Vorstand.
 
