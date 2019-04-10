@@ -19,7 +19,7 @@ Der Mitgliedsbeitrag wird jeweils zum 1. des Monats sowie mit der Annahme des Au
 
 ## § 3 Zahlungsweise
 
-(1) Die Zahlung des Beitrages erfolgt monatlich auf das Konto des CCCP e. V. Es wird empfohlen, einen Dauerauftrag einzurichten.
+(1) Die Zahlung des Beitrages erfolgt monatlich auf das Konto des CCCP e. V. Es wird empfohlen, einen Dauerauftrag einzurichten. Der Verwendungszweck von Überweisungen soll das Wort *Mitgliedsbeitrag* enthalten.
 
 (2) Alternativ zu Abs. (1) kann nach Absprache eine Barzahlung an den Schatzmeister erfolgen.
 
